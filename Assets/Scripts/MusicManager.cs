@@ -2,6 +2,7 @@
 using System.Collections;
 
 public class MusicManager : MonoBehaviour {
+	public AudioClip[] levelMusicChangeArray;
 
 	// Use this for initialization
 	void Start () {
