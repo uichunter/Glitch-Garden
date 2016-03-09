@@ -4,10 +4,15 @@ using UnityEngine.SceneManagement;
 
 public class LvManager : MonoBehaviour {
     public int maxGameLevel;
+    public float afterSecondsLoad;
 
     private int currentLevel; 
     private static int gameLevelIndex=1;
     private static int previousScene;
+
+    void Start(){
+    	Invoke("JustNextLv",afterSecondsLoad);
+    }
 
 	public void LvLoader (string name){
         previousScene = SceneManager.GetActiveScene().buildIndex;
@@ -35,6 +40,12 @@ public class LvManager : MonoBehaviour {
            SceneManager.LoadScene(currentLevel + 1);
         }
     }
+
+    private void JustNextLv ()
+	{
+		currentLevel = SceneManager.GetActiveScene().buildIndex;
+		SceneManager.LoadScene(currentLevel + 1);
+	}
 
 	}
 
