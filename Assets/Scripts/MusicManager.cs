@@ -1,7 +1,8 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class MusicManager : MonoBehaviour {	
+public class MusicManager : MonoBehaviour {
+//I find out the onLevelWasLoaded method only call after new level adding. So I have to add a audiosource in 00 scene indepentently.	
 	public AudioClip[] levelMusicChangeArray;
 	private AudioSource music;
 
@@ -20,15 +21,9 @@ public class MusicManager : MonoBehaviour {
 		AudioClip thisLevelMusic = levelMusicChangeArray [level];
 		if (thisLevelMusic) {
 			music.clip = thisLevelMusic;
-			if (level > 0) {
-				music.loop = true;
-			}else{
-				music.loop = false;
-			}
-		Debug.Log(level+" music is  "+music.clip);
-		music.Play();
+			music.loop = true;
 		}
+		music.Play();
 	}
-
-
 }
+
