@@ -117,10 +117,11 @@ MonoBehaviour:
   levelMusicChangeArray:
   - {fileID: 0}
   - {fileID: 8300000, guid: f6661c6a98918e2419ed0da5341ed993, type: 3}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 8300000, guid: b9f6e2a541afc6c4ebc9ef8374278d4b, type: 3}
+  - {fileID: 8300000, guid: 8389c3e3017ba7d4190bafaa83fcab4d, type: 3}
+  - {fileID: 8300000, guid: f21ef41c56427a542b9e8c27e8a97db5, type: 3}
+  - {fileID: 8300000, guid: fa74a44b1fb40f04b9108d9b24aaf49f, type: 3}
+  - {fileID: 8300000, guid: fa74a44b1fb40f04b9108d9b24aaf49f, type: 3}
 --- !u!1001 &100100000
 Prefab:
   m_ObjectHideFlags: 1

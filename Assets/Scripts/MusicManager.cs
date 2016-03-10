@@ -18,12 +18,14 @@ public class MusicManager : MonoBehaviour {
 
 	void OnLevelWasLoaded (int level)
 	{
+		music.Stop();
 		AudioClip thisLevelMusic = levelMusicChangeArray [level];
 		if (thisLevelMusic) {
 			music.clip = thisLevelMusic;
 			music.loop = true;
+			music.Play();
 		}
-		music.Play();
+
 	}
 }
 
