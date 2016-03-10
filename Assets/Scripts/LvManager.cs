@@ -4,14 +4,20 @@ using UnityEngine.SceneManagement;
 
 public class LvManager : MonoBehaviour {
     public int maxGameLevel;
+    public bool isAutoLoadLevel;
     public float afterSecondsLoad;
 
     private int currentLevel; 
     private static int gameLevelIndex=1;
     private static int previousScene;
 
-    void Start(){
-    	Invoke("JustNextLv",afterSecondsLoad);
+    void Start ()
+	{
+		if (isAutoLoadLevel) {
+			Invoke ("JustNextLv", afterSecondsLoad);
+		} else {
+			Debug.Log("JustNextLv method disabled.");
+		}
     }
 
 	public void LvLoader (string name){
