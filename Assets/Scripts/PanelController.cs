@@ -4,11 +4,16 @@ using UnityEngine.UI;
 
 public class PanelController : MonoBehaviour {
 	public float fadeInTime;
+	public bool isBlackFadeIn;
 	private Image fadePanel;
-	private Color currentColor = Color.black;
+	private Color currentColor = Color.white;
 	// Use this for initialization
-	void Start () {
-		fadePanel = GetComponent<Image>();
+	void Start ()
+	{
+		fadePanel = GetComponent<Image> ();
+		if (isBlackFadeIn) {
+			currentColor = Color.black;
+		}
 		fadePanel.color = currentColor;
 	}
 	
@@ -16,10 +21,9 @@ public class PanelController : MonoBehaviour {
 	void Update ()
 	{
 		if (Time.timeSinceLevelLoad < fadeInTime) {
-			//Fading in
-			float fadeInSpeed = Time.deltaTime/fadeInTime;
-			Debug.Log(currentColor.a);
-			currentColor.a -=fadeInSpeed;
+			float fadeInSpeed = Time.deltaTime / fadeInTime;
+			currentColor.a -= fadeInSpeed;
+			currentColor.a = Mathf.Exp(currentColor.a);
 			fadePanel.color = currentColor;
 		} else {
 			gameObject.SetActive(false);
