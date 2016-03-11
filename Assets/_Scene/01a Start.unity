@@ -446,6 +446,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   fadeInTime: 2
+  isBlackFadeIn: 0
 --- !u!114 &1066263092
 MonoBehaviour:
   m_ObjectHideFlags: 0
