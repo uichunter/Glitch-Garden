@@ -23,10 +23,14 @@ public class PanelController : MonoBehaviour {
 		if (Time.timeSinceLevelLoad < fadeInTime) {
 			float fadeInSpeed = Time.deltaTime / fadeInTime;
 			currentColor.a -= fadeInSpeed;
-			currentColor.a = Mathf.Exp(currentColor.a);
 			fadePanel.color = currentColor;
 		} else {
 			gameObject.SetActive(false);
 		}
+	}
+
+	void OnMouseDown ()
+	{
+		gameObject.SetActive(false);
 	}
 }
