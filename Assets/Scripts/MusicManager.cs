@@ -18,14 +18,20 @@ public class MusicManager : MonoBehaviour {
 
 	void OnLevelWasLoaded (int level)
 	{
-		music.Stop();
+		SetMusicVolume(PlayerPresfsManager.GetMasterVolume());
 		AudioClip thisLevelMusic = levelMusicChangeArray [level];
 		if (thisLevelMusic) {
+			music.Stop();
 			music.clip = thisLevelMusic;
 			music.loop = true;
 			music.Play();
 		}
 
+	}
+
+	public void SetMusicVolume (float volume)
+	{
+		music.volume = volume;
 	}
 
 

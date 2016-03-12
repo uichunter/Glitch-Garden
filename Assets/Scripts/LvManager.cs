@@ -15,8 +15,6 @@ public class LvManager : MonoBehaviour {
 	{
 		if (isAutoLoadLevel) {
 			Invoke ("JustNextLv", afterSecondsLoad);
-		} else {
-			Debug.Log("JustNextLv method disabled.");
 		}
     }
 

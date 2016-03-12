@@ -47,7 +47,7 @@ public class PlayerPresfsManager : MonoBehaviour {
 
 	public static void SetDifficulty (float volume)
 	{
-		if (volume <= 1f && volume >= 0f) {
+		if (volume <= 3f && volume >= 1f) {
 			PlayerPrefs.SetFloat (DIFFICULTY_KEY, volume);
 		} else {
 			Debug.LogError("Difficulty volume is out of range.");
