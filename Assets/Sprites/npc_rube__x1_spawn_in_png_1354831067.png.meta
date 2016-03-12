@@ -1,0 +1,4657 @@
+fileFormatVersion: 2
+guid: c1e77dee868e43140a773e9176499d9f
+timeCreated: 1457747352
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: npc_rube__x1_spawn_in_png_1354831067_0
+    21300002: npc_rube__x1_spawn_in_png_1354831067_1
+    21300004: npc_rube__x1_spawn_in_png_1354831067_2
+    21300006: npc_rube__x1_spawn_in_png_1354831067_3
+    21300008: npc_rube__x1_spawn_in_png_1354831067_4
+    21300010: npc_rube__x1_spawn_in_png_1354831067_5
+    21300012: npc_rube__x1_spawn_in_png_1354831067_6
+    21300014: npc_rube__x1_spawn_in_png_1354831067_7
+    21300016: npc_rube__x1_spawn_in_png_1354831067_8
+    21300018: npc_rube__x1_spawn_in_png_1354831067_9
+    21300020: npc_rube__x1_spawn_in_png_1354831067_10
+    21300022: npc_rube__x1_spawn_in_png_1354831067_11
+    21300024: npc_rube__x1_spawn_in_png_1354831067_12
+    21300026: npc_rube__x1_spawn_in_png_1354831067_13
+    21300028: npc_rube__x1_spawn_in_png_1354831067_14
+    21300030: npc_rube__x1_spawn_in_png_1354831067_15
+    21300032: npc_rube__x1_spawn_in_png_1354831067_16
+    21300034: npc_rube__x1_spawn_in_png_1354831067_17
+    21300036: npc_rube__x1_spawn_in_png_1354831067_18
+    21300038: npc_rube__x1_spawn_in_png_1354831067_19
+    21300040: npc_rube__x1_spawn_in_png_1354831067_20
+    21300042: npc_rube__x1_spawn_in_png_1354831067_21
+    21300044: npc_rube__x1_spawn_in_png_1354831067_22
+    21300046: npc_rube__x1_spawn_in_png_1354831067_23
+    21300048: npc_rube__x1_spawn_in_png_1354831067_24
+    21300050: npc_rube__x1_spawn_in_png_1354831067_25
+    21300052: npc_rube__x1_spawn_in_png_1354831067_26
+    21300054: npc_rube__x1_spawn_in_png_1354831067_27
+    21300056: npc_rube__x1_spawn_in_png_1354831067_28
+    21300058: npc_rube__x1_spawn_in_png_1354831067_29
+    21300060: npc_rube__x1_spawn_in_png_1354831067_30
+    21300062: npc_rube__x1_spawn_in_png_1354831067_31
+    21300064: npc_rube__x1_spawn_in_png_1354831067_32
+    21300066: npc_rube__x1_spawn_in_png_1354831067_33
+    21300068: npc_rube__x1_spawn_in_png_1354831067_34
+    21300070: npc_rube__x1_spawn_in_png_1354831067_35
+    21300072: npc_rube__x1_spawn_in_png_1354831067_36
+    21300074: npc_rube__x1_spawn_in_png_1354831067_37
+    21300076: npc_rube__x1_spawn_in_png_1354831067_38
+    21300078: npc_rube__x1_spawn_in_png_1354831067_39
+    21300080: npc_rube__x1_spawn_in_png_1354831067_40
+    21300082: npc_rube__x1_spawn_in_png_1354831067_41
+    21300084: npc_rube__x1_spawn_in_png_1354831067_42
+    21300086: npc_rube__x1_spawn_in_png_1354831067_43
+    21300088: npc_rube__x1_spawn_in_png_1354831067_44
+    21300090: npc_rube__x1_spawn_in_png_1354831067_45
+    21300092: npc_rube__x1_spawn_in_png_1354831067_46
+    21300094: npc_rube__x1_spawn_in_png_1354831067_47
+    21300096: npc_rube__x1_spawn_in_png_1354831067_48
+    21300098: npc_rube__x1_spawn_in_png_1354831067_49
+    21300100: npc_rube__x1_spawn_in_png_1354831067_50
+    21300102: npc_rube__x1_spawn_in_png_1354831067_51
+    21300104: npc_rube__x1_spawn_in_png_1354831067_52
+    21300106: npc_rube__x1_spawn_in_png_1354831067_53
+    21300108: npc_rube__x1_spawn_in_png_1354831067_54
+    21300110: npc_rube__x1_spawn_in_png_1354831067_55
+    21300112: npc_rube__x1_spawn_in_png_1354831067_56
+    21300114: npc_rube__x1_spawn_in_png_1354831067_57
+    21300116: npc_rube__x1_spawn_in_png_1354831067_58
+    21300118: npc_rube__x1_spawn_in_png_1354831067_59
+    21300120: npc_rube__x1_spawn_in_png_1354831067_60
+    21300122: npc_rube__x1_spawn_in_png_1354831067_61
+    21300124: npc_rube__x1_spawn_in_png_1354831067_62
+    21300126: npc_rube__x1_spawn_in_png_1354831067_63
+    21300128: npc_rube__x1_spawn_in_png_1354831067_64
+    21300130: npc_rube__x1_spawn_in_png_1354831067_65
+    21300132: npc_rube__x1_spawn_in_png_1354831067_66
+    21300134: npc_rube__x1_spawn_in_png_1354831067_67
+    21300136: npc_rube__x1_spawn_in_png_1354831067_68
+    21300138: npc_rube__x1_spawn_in_png_1354831067_69
+    21300140: npc_rube__x1_spawn_in_png_1354831067_70
+    21300142: npc_rube__x1_spawn_in_png_1354831067_71
+    21300144: npc_rube__x1_spawn_in_png_1354831067_72
+    21300146: npc_rube__x1_spawn_in_png_1354831067_73
+    21300148: npc_rube__x1_spawn_in_png_1354831067_74
+    21300150: npc_rube__x1_spawn_in_png_1354831067_75
+    21300152: npc_rube__x1_spawn_in_png_1354831067_76
+    21300154: npc_rube__x1_spawn_in_png_1354831067_77
+    21300156: npc_rube__x1_spawn_in_png_1354831067_78
+    21300158: npc_rube__x1_spawn_in_png_1354831067_79
+    21300160: npc_rube__x1_spawn_in_png_1354831067_80
+    21300162: npc_rube__x1_spawn_in_png_1354831067_81
+    21300164: npc_rube__x1_spawn_in_png_1354831067_82
+    21300166: npc_rube__x1_spawn_in_png_1354831067_83
+    21300168: npc_rube__x1_spawn_in_png_1354831067_84
+    21300170: npc_rube__x1_spawn_in_png_1354831067_85
+    21300172: npc_rube__x1_spawn_in_png_1354831067_86
+    21300174: npc_rube__x1_spawn_in_png_1354831067_87
+    21300176: npc_rube__x1_spawn_in_png_1354831067_88
+    21300178: npc_rube__x1_spawn_in_png_1354831067_89
+    21300180: npc_rube__x1_spawn_in_png_1354831067_90
+    21300182: npc_rube__x1_spawn_in_png_1354831067_91
+    21300184: npc_rube__x1_spawn_in_png_1354831067_92
+    21300186: npc_rube__x1_spawn_in_png_1354831067_93
+    21300188: npc_rube__x1_spawn_in_png_1354831067_94
+    21300190: npc_rube__x1_spawn_in_png_1354831067_95
+    21300192: npc_rube__x1_spawn_in_png_1354831067_96
+    21300194: npc_rube__x1_spawn_in_png_1354831067_97
+    21300196: npc_rube__x1_spawn_in_png_1354831067_98
+    21300198: npc_rube__x1_spawn_in_png_1354831067_99
+    21300200: npc_rube__x1_spawn_in_png_1354831067_100
+    21300202: npc_rube__x1_spawn_in_png_1354831067_101
+    21300204: npc_rube__x1_spawn_in_png_1354831067_102
+    21300206: npc_rube__x1_spawn_in_png_1354831067_103
+    21300208: npc_rube__x1_spawn_in_png_1354831067_104
+    21300210: npc_rube__x1_spawn_in_png_1354831067_105
+    21300212: npc_rube__x1_spawn_in_png_1354831067_106
+    21300214: npc_rube__x1_spawn_in_png_1354831067_107
+    21300216: npc_rube__x1_spawn_in_png_1354831067_108
+    21300218: npc_rube__x1_spawn_in_png_1354831067_109
+    21300220: npc_rube__x1_spawn_in_png_1354831067_110
+    21300222: npc_rube__x1_spawn_in_png_1354831067_111
+    21300224: npc_rube__x1_spawn_in_png_1354831067_112
+    21300226: npc_rube__x1_spawn_in_png_1354831067_113
+    21300228: npc_rube__x1_spawn_in_png_1354831067_114
+    21300230: npc_rube__x1_spawn_in_png_1354831067_115
+    21300232: npc_rube__x1_spawn_in_png_1354831067_116
+    21300234: npc_rube__x1_spawn_in_png_1354831067_117
+    21300236: npc_rube__x1_spawn_in_png_1354831067_118
+    21300238: npc_rube__x1_spawn_in_png_1354831067_119
+    21300240: npc_rube__x1_spawn_in_png_1354831067_120
+    21300242: npc_rube__x1_spawn_in_png_1354831067_121
+    21300244: npc_rube__x1_spawn_in_png_1354831067_122
+    21300246: npc_rube__x1_spawn_in_png_1354831067_123
+    21300248: npc_rube__x1_spawn_in_png_1354831067_124
+    21300250: npc_rube__x1_spawn_in_png_1354831067_125
+    21300252: npc_rube__x1_spawn_in_png_1354831067_126
+    21300254: npc_rube__x1_spawn_in_png_1354831067_127
+    21300256: npc_rube__x1_spawn_in_png_1354831067_128
+    21300258: npc_rube__x1_spawn_in_png_1354831067_129
+    21300260: npc_rube__x1_spawn_in_png_1354831067_130
+    21300262: npc_rube__x1_spawn_in_png_1354831067_131
+    21300264: npc_rube__x1_spawn_in_png_1354831067_132
+    21300266: npc_rube__x1_spawn_in_png_1354831067_133
+    21300268: npc_rube__x1_spawn_in_png_1354831067_134
+    21300270: npc_rube__x1_spawn_in_png_1354831067_135
+    21300272: npc_rube__x1_spawn_in_png_1354831067_136
+    21300274: npc_rube__x1_spawn_in_png_1354831067_137
+    21300276: npc_rube__x1_spawn_in_png_1354831067_138
+    21300278: npc_rube__x1_spawn_in_png_1354831067_139
+    21300280: npc_rube__x1_spawn_in_png_1354831067_140
+    21300282: npc_rube__x1_spawn_in_png_1354831067_141
+    21300284: npc_rube__x1_spawn_in_png_1354831067_142
+    21300286: npc_rube__x1_spawn_in_png_1354831067_143
+    21300288: npc_rube__x1_spawn_in_png_1354831067_144
+    21300290: npc_rube__x1_spawn_in_png_1354831067_145
+    21300292: npc_rube__x1_spawn_in_png_1354831067_146
+    21300294: npc_rube__x1_spawn_in_png_1354831067_147
+    21300296: npc_rube__x1_spawn_in_png_1354831067_148
+    21300298: npc_rube__x1_spawn_in_png_1354831067_149
+    21300300: npc_rube__x1_spawn_in_png_1354831067_150
+    21300302: npc_rube__x1_spawn_in_png_1354831067_151
+    21300304: npc_rube__x1_spawn_in_png_1354831067_152
+    21300306: npc_rube__x1_spawn_in_png_1354831067_153
+    21300308: npc_rube__x1_spawn_in_png_1354831067_154
+    21300310: npc_rube__x1_spawn_in_png_1354831067_155
+    21300312: npc_rube__x1_spawn_in_png_1354831067_156
+    21300314: npc_rube__x1_spawn_in_png_1354831067_157
+    21300316: npc_rube__x1_spawn_in_png_1354831067_158
+    21300318: npc_rube__x1_spawn_in_png_1354831067_159
+    21300320: npc_rube__x1_spawn_in_png_1354831067_160
+    21300322: npc_rube__x1_spawn_in_png_1354831067_161
+    21300324: npc_rube__x1_spawn_in_png_1354831067_162
+    21300326: npc_rube__x1_spawn_in_png_1354831067_163
+    21300328: npc_rube__x1_spawn_in_png_1354831067_164
+    21300330: npc_rube__x1_spawn_in_png_1354831067_165
+    21300332: npc_rube__x1_spawn_in_png_1354831067_166
+    21300334: npc_rube__x1_spawn_in_png_1354831067_167
+    21300336: npc_rube__x1_spawn_in_png_1354831067_168
+    21300338: npc_rube__x1_spawn_in_png_1354831067_169
+    21300340: npc_rube__x1_spawn_in_png_1354831067_170
+    21300342: npc_rube__x1_spawn_in_png_1354831067_171
+    21300344: npc_rube__x1_spawn_in_png_1354831067_172
+    21300346: npc_rube__x1_spawn_in_png_1354831067_173
+    21300348: npc_rube__x1_spawn_in_png_1354831067_174
+    21300350: npc_rube__x1_spawn_in_png_1354831067_175
+    21300352: npc_rube__x1_spawn_in_png_1354831067_176
+    21300354: npc_rube__x1_spawn_in_png_1354831067_177
+    21300356: npc_rube__x1_spawn_in_png_1354831067_178
+    21300358: npc_rube__x1_spawn_in_png_1354831067_179
+    21300360: npc_rube__x1_spawn_in_png_1354831067_180
+    21300362: npc_rube__x1_spawn_in_png_1354831067_181
+    21300364: npc_rube__x1_spawn_in_png_1354831067_182
+    21300366: npc_rube__x1_spawn_in_png_1354831067_183
+    21300368: npc_rube__x1_spawn_in_png_1354831067_184
+    21300370: npc_rube__x1_spawn_in_png_1354831067_185
+    21300372: npc_rube__x1_spawn_in_png_1354831067_186
+    21300374: npc_rube__x1_spawn_in_png_1354831067_187
+    21300376: npc_rube__x1_spawn_in_png_1354831067_188
+    21300378: npc_rube__x1_spawn_in_png_1354831067_189
+    21300380: npc_rube__x1_spawn_in_png_1354831067_190
+    21300382: npc_rube__x1_spawn_in_png_1354831067_191
+    21300384: npc_rube__x1_spawn_in_png_1354831067_192
+    21300386: npc_rube__x1_spawn_in_png_1354831067_193
+    21300388: npc_rube__x1_spawn_in_png_1354831067_194
+    21300390: npc_rube__x1_spawn_in_png_1354831067_195
+    21300392: npc_rube__x1_spawn_in_png_1354831067_196
+    21300394: npc_rube__x1_spawn_in_png_1354831067_197
+    21300396: npc_rube__x1_spawn_in_png_1354831067_198
+    21300398: npc_rube__x1_spawn_in_png_1354831067_199
+    21300400: npc_rube__x1_spawn_in_png_1354831067_200
+    21300402: npc_rube__x1_spawn_in_png_1354831067_201
+    21300404: npc_rube__x1_spawn_in_png_1354831067_202
+    21300406: npc_rube__x1_spawn_in_png_1354831067_203
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 133.3333
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: npc_rube__x1_spawn_in_png_1354831067_0
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 3388
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.8333435, y: -14.0946045}
+        - {x: -9.1666565, y: -19.094604}
+        - {x: -9.1666565, y: -29.094604}
+        - {x: -8.1666565, y: -35.094604}
+        - {x: -1.1666565, y: -36.094604}
+        - {x: 9.8333435, y: -36.094604}
+        - {x: 23.833344, y: -27.094604}
+        - {x: 23.833344, y: -14.0946045}
+    - name: npc_rube__x1_spawn_in_png_1354831067_1
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 3388
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.222214, y: -19.094604}
+        - {x: -9.222214, y: -30.094604}
+        - {x: -8.222214, y: -35.094604}
+        - {x: -0.22221375, y: -37.094604}
+        - {x: 7.7777863, y: -37.094604}
+        - {x: 24.777786, y: -28.094604}
+        - {x: 24.777786, y: -13.0946045}
+        - {x: 4.7777863, y: -13.0946045}
+    - name: npc_rube__x1_spawn_in_png_1354831067_2
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 3388
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.277771, y: -16.094604}
+        - {x: -10.277771, y: -31.094604}
+        - {x: -9.277771, y: -35.094604}
+        - {x: 0.722229, y: -37.094604}
+        - {x: 9.722229, y: -37.094604}
+        - {x: 24.722229, y: -27.094604}
+        - {x: 24.722229, y: -13.0946045}
+        - {x: 2.722229, y: -13.0946045}
+        - {x: -9.277771, y: -15.0946045}
+    - name: npc_rube__x1_spawn_in_png_1354831067_3
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 3388
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.666687, y: -13.0946045}
+        - {x: -8.333313, y: -18.094604}
+        - {x: -10.333313, y: -19.094604}
+        - {x: -10.333313, y: -30.094604}
+        - {x: -9.333313, y: -35.094604}
+        - {x: -1.333313, y: -37.094604}
+        - {x: 11.666687, y: -37.094604}
+        - {x: 25.666687, y: -28.094604}
+        - {x: 25.666687, y: -17.094604}
+        - {x: 24.666687, y: -13.0946045}
+    - name: npc_rube__x1_spawn_in_png_1354831067_4
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 3388
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.3888855, y: -13.0946045}
+        - {x: -11.3888855, y: -20.094604}
+        - {x: -11.3888855, y: -27.094604}
+        - {x: -10.3888855, y: -37.094604}
+        - {x: 21.611115, y: -37.094604}
+        - {x: 24.611115, y: -29.094604}
+        - {x: 24.611115, y: -13.0946045}
+    - name: npc_rube__x1_spawn_in_png_1354831067_5
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 3388
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.9444275, y: -13.0946045}
+        - {x: -9.9444275, y: -18.094604}
+        - {x: -9.9444275, y: -31.094604}
+        - {x: -7.9444275, y: -37.094604}
+        - {x: 12.0555725, y: -37.094604}
+        - {x: 26.055573, y: -26.094604}
+        - {x: 26.055573, y: -14.0946045}
+        - {x: 23.055573, y: -13.0946045}
+    - name: npc_rube__x1_spawn_in_png_1354831067_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3234
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: -13.135742}
+        - {x: 4.5, y: -13.135742}
+        - {x: -9.5, y: -17.135742}
+        - {x: -11.5, y: -19.135742}
+        - {x: -11.5, y: -30.135742}
+        - {x: -8.5, y: -35.135742}
+        - {x: -2.5, y: -38.135742}
+        - {x: 8.5, y: -38.135742}
+        - {x: 24.5, y: -29.135742}
+        - {x: 24.5, y: -15.135742}
+        - {x: 23.5, y: -14.135742}
+    - name: npc_rube__x1_spawn_in_png_1354831067_7
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 3234
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.055553, y: -33.135742}
+        - {x: 3.9444466, y: -38.135742}
+        - {x: 5.9444466, y: -38.135742}
+        - {x: 24.944447, y: -28.135742}
+        - {x: 24.944447, y: -13.135742}
+        - {x: 1.9444466, y: -13.135742}
+        - {x: -10.055553, y: -19.135742}
+    - name: npc_rube__x1_spawn_in_png_1354831067_8
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 3234
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.888893, y: -13.135742}
+        - {x: -10.111107, y: -18.135742}
+        - {x: -10.111107, y: -38.135742}
+        - {x: 7.888893, y: -38.135742}
+        - {x: 25.888893, y: -35.135742}
+        - {x: 25.888893, y: -14.135742}
+        - {x: 14.888893, y: -13.135742}
+    - name: npc_rube__x1_spawn_in_png_1354831067_9
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 3234
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.8333435, y: -13.135742}
+        - {x: -10.1666565, y: -16.135742}
+        - {x: -10.1666565, y: -32.135742}
+        - {x: -1.1666565, y: -38.135742}
+        - {x: 9.8333435, y: -38.135742}
+        - {x: 11.8333435, y: -37.135742}
+        - {x: 24.833344, y: -27.135742}
+        - {x: 24.833344, y: -14.135742}
+        - {x: 21.833344, y: -13.135742}
+    - name: npc_rube__x1_spawn_in_png_1354831067_10
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 3234
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.222214, y: -32.135742}
+        - {x: 1.7777863, y: -38.135742}
+        - {x: 6.7777863, y: -38.135742}
+        - {x: 25.777786, y: -28.135742}
+        - {x: 25.777786, y: -13.135742}
+        - {x: 1.7777863, y: -13.135742}
+        - {x: -10.222214, y: -18.135742}
+    - name: npc_rube__x1_spawn_in_png_1354831067_11
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 3234
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.722229, y: -13.135742}
+        - {x: -0.277771, y: -14.135742}
+        - {x: -10.277771, y: -19.135742}
+        - {x: -10.277771, y: -33.135742}
+        - {x: -2.277771, y: -38.135742}
+        - {x: 8.722229, y: -38.135742}
+        - {x: 24.722229, y: -29.135742}
+        - {x: 24.722229, y: -14.135742}
+        - {x: 20.722229, y: -13.135742}
+    - name: npc_rube__x1_spawn_in_png_1354831067_12
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 3234
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.333313, y: -32.135742}
+        - {x: 1.666687, y: -38.135742}
+        - {x: 6.666687, y: -38.135742}
+        - {x: 25.666687, y: -28.135742}
+        - {x: 25.666687, y: -13.135742}
+        - {x: 1.666687, y: -13.135742}
+        - {x: -10.333313, y: -18.135742}
+    - name: npc_rube__x1_spawn_in_png_1354831067_13
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 3234
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.611115, y: -13.135742}
+        - {x: -1.3888855, y: -13.135742}
+        - {x: -11.3888855, y: -18.135742}
+        - {x: -11.3888855, y: -29.135742}
+        - {x: -8.3888855, y: -36.135742}
+        - {x: -0.3888855, y: -38.135742}
+        - {x: 8.6111145, y: -38.135742}
+        - {x: 25.611115, y: -28.135742}
+        - {x: 25.611115, y: -15.135742}
+    - name: npc_rube__x1_spawn_in_png_1354831067_14
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 3234
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.0555725, y: -13.135742}
+        - {x: -9.9444275, y: -18.135742}
+        - {x: -9.9444275, y: -38.135742}
+        - {x: 15.0555725, y: -38.135742}
+        - {x: 26.055573, y: -37.135742}
+        - {x: 26.055573, y: -13.135742}
+    - name: npc_rube__x1_spawn_in_png_1354831067_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3080
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: -13.17688}
+        - {x: -9.5, y: -18.17688}
+        - {x: -11.5, y: -19.17688}
+        - {x: -11.5, y: -32.17688}
+        - {x: -0.5, y: -38.17688}
+        - {x: 18.5, y: -38.17688}
+        - {x: 25.5, y: -25.17688}
+        - {x: 25.5, y: -14.17688}
+        - {x: 23.5, y: -13.17688}
+    - name: npc_rube__x1_spawn_in_png_1354831067_16
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 3080
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.055553436, y: -13.17688}
+        - {x: -10.055553, y: -19.17688}
+        - {x: -10.055553, y: -38.17688}
+        - {x: 25.944447, y: -38.17688}
+        - {x: 25.944447, y: -13.17688}
+    - name: npc_rube__x1_spawn_in_png_1354831067_17
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 3080
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.888893, y: -13.17688}
+        - {x: -10.111107, y: -18.17688}
+        - {x: -10.111107, y: -31.17688}
+        - {x: -8.111107, y: -37.17688}
+        - {x: -2.1111069, y: -38.17688}
+        - {x: 9.888893, y: -38.17688}
+        - {x: 25.888893, y: -30.17688}
+        - {x: 25.888893, y: -13.17688}
+    - name: npc_rube__x1_spawn_in_png_1354831067_18
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 3080
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.8333435, y: -13.17688}
+        - {x: -10.1666565, y: -18.17688}
+        - {x: -10.1666565, y: -33.17688}
+        - {x: -2.1666565, y: -38.17688}
+        - {x: 9.8333435, y: -38.17688}
+        - {x: 25.833344, y: -30.17688}
+        - {x: 25.833344, y: -15.17688}
+        - {x: 21.833344, y: -13.17688}
+    - name: npc_rube__x1_spawn_in_png_1354831067_19
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 3080
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.2222137, y: -13.17688}
+        - {x: -10.222214, y: -18.17688}
+        - {x: -10.222214, y: -32.17688}
+        - {x: -8.222214, y: -36.17688}
+        - {x: -1.2222137, y: -38.17688}
+        - {x: 22.777786, y: -38.17688}
+        - {x: 25.777786, y: -33.17688}
+        - {x: 25.777786, y: -13.17688}
+    - name: npc_rube__x1_spawn_in_png_1354831067_20
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 3080
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.277771, y: -19.17688}
+        - {x: -11.277771, y: -28.17688}
+        - {x: -10.277771, y: -32.17688}
+        - {x: 0.722229, y: -38.17688}
+        - {x: 6.722229, y: -38.17688}
+        - {x: 25.722229, y: -31.17688}
+        - {x: 25.722229, y: -13.17688}
+        - {x: 0.722229, y: -13.17688}
+    - name: npc_rube__x1_spawn_in_png_1354831067_21
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 3080
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.333313, y: -13.17688}
+        - {x: -10.333313, y: -18.17688}
+        - {x: -10.333313, y: -32.17688}
+        - {x: -3.333313, y: -38.17688}
+        - {x: 10.666687, y: -38.17688}
+        - {x: 25.666687, y: -31.17688}
+        - {x: 25.666687, y: -13.17688}
+    - name: npc_rube__x1_spawn_in_png_1354831067_22
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 3080
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.3888855, y: -13.17688}
+        - {x: -11.3888855, y: -29.17688}
+        - {x: -9.3888855, y: -36.17688}
+        - {x: 0.6111145, y: -38.17688}
+        - {x: 7.6111145, y: -38.17688}
+        - {x: 25.611115, y: -28.17688}
+        - {x: 25.611115, y: -13.17688}
+    - name: npc_rube__x1_spawn_in_png_1354831067_23
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 3080
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.0555725, y: -13.17688}
+        - {x: -9.9444275, y: -14.17688}
+        - {x: -9.9444275, y: -33.17688}
+        - {x: 4.0555725, y: -38.17688}
+        - {x: 10.0555725, y: -38.17688}
+        - {x: 26.055573, y: -28.17688}
+        - {x: 26.055573, y: -16.17688}
+        - {x: 24.055573, y: -13.17688}
+    - name: npc_rube__x1_spawn_in_png_1354831067_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2926
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -13.218018}
+        - {x: -1.5, y: -13.218018}
+        - {x: -11.5, y: -15.218018}
+        - {x: -11.5, y: -33.218018}
+        - {x: -0.5, y: -38.218018}
+        - {x: 10.5, y: -38.218018}
+        - {x: 25.5, y: -28.218018}
+    - name: npc_rube__x1_spawn_in_png_1354831067_25
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 2926
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.0555534, y: -14.218018}
+        - {x: -10.055553, y: -18.218018}
+        - {x: -10.055553, y: -32.218018}
+        - {x: -4.0555534, y: -38.218018}
+        - {x: 13.944447, y: -38.218018}
+        - {x: 25.944447, y: -33.218018}
+        - {x: 25.944447, y: -14.218018}
+    - name: npc_rube__x1_spawn_in_png_1354831067_26
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 2926
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.8888931, y: -14.218018}
+        - {x: -10.111107, y: -15.218018}
+        - {x: -10.111107, y: -34.218018}
+        - {x: -4.111107, y: -38.218018}
+        - {x: 10.888893, y: -38.218018}
+        - {x: 26.888893, y: -30.218018}
+        - {x: 26.888893, y: -16.218018}
+        - {x: 23.888893, y: -14.218018}
+    - name: npc_rube__x1_spawn_in_png_1354831067_27
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 2926
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.8333435, y: -14.218018}
+        - {x: -9.1666565, y: -17.218018}
+        - {x: -10.1666565, y: -19.218018}
+        - {x: -10.1666565, y: -33.218018}
+        - {x: 2.8333435, y: -38.218018}
+        - {x: 10.8333435, y: -38.218018}
+        - {x: 25.833344, y: -29.218018}
+        - {x: 25.833344, y: -16.218018}
+        - {x: 24.833344, y: -14.218018}
+    - name: npc_rube__x1_spawn_in_png_1354831067_28
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 2926
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.2222137, y: -14.218018}
+        - {x: -10.222214, y: -17.218018}
+        - {x: -10.222214, y: -34.218018}
+        - {x: 2.7777863, y: -38.218018}
+        - {x: 13.777786, y: -38.218018}
+        - {x: 22.777786, y: -36.218018}
+        - {x: 25.777786, y: -28.218018}
+        - {x: 25.777786, y: -14.218018}
+    - name: npc_rube__x1_spawn_in_png_1354831067_29
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2926
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.277771, y: -14.218018}
+        - {x: -11.277771, y: -18.218018}
+        - {x: -11.277771, y: -36.218018}
+        - {x: -6.277771, y: -38.218018}
+        - {x: 19.722229, y: -38.218018}
+        - {x: 25.722229, y: -31.218018}
+        - {x: 25.722229, y: -14.218018}
+    - name: npc_rube__x1_spawn_in_png_1354831067_30
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 2926
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.333313, y: -14.218018}
+        - {x: -10.333313, y: -15.218018}
+        - {x: -10.333313, y: -34.218018}
+        - {x: 0.666687, y: -38.218018}
+        - {x: 10.666687, y: -38.218018}
+        - {x: 25.666687, y: -29.218018}
+        - {x: 25.666687, y: -15.218018}
+        - {x: 24.666687, y: -14.218018}
+    - name: npc_rube__x1_spawn_in_png_1354831067_31
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 2926
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.6111145, y: -14.218018}
+        - {x: 0.6111145, y: -15.218018}
+        - {x: -9.3888855, y: -18.218018}
+        - {x: -11.3888855, y: -19.218018}
+        - {x: -11.3888855, y: -26.218018}
+        - {x: -10.3888855, y: -32.218018}
+        - {x: -1.3888855, y: -38.218018}
+        - {x: 19.611115, y: -38.218018}
+        - {x: 25.611115, y: -26.218018}
+        - {x: 25.611115, y: -14.218018}
+    - name: npc_rube__x1_spawn_in_png_1354831067_32
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2926
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.0555725, y: -14.218018}
+        - {x: -9.9444275, y: -17.218018}
+        - {x: -9.9444275, y: -38.218018}
+        - {x: 24.055573, y: -38.218018}
+        - {x: 26.055573, y: -30.218018}
+        - {x: 26.055573, y: -14.218018}
+    - name: npc_rube__x1_spawn_in_png_1354831067_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2772
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: -14.259277}
+        - {x: -11.5, y: -19.259277}
+        - {x: -11.5, y: -32.259277}
+        - {x: -0.5, y: -38.259277}
+        - {x: 6.5, y: -38.259277}
+        - {x: 20.5, y: -33.259277}
+        - {x: 25.5, y: -30.259277}
+        - {x: 25.5, y: -17.259277}
+        - {x: 24.5, y: -14.259277}
+    - name: npc_rube__x1_spawn_in_png_1354831067_34
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 2772
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.9444466, y: -14.259277}
+        - {x: -10.055553, y: -19.259277}
+        - {x: -10.055553, y: -38.259277}
+        - {x: 21.944447, y: -38.259277}
+        - {x: 25.944447, y: -32.259277}
+        - {x: 25.944447, y: -14.259277}
+    - name: npc_rube__x1_spawn_in_png_1354831067_35
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 2772
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.8888931, y: -14.259277}
+        - {x: -10.111107, y: -15.259277}
+        - {x: -10.111107, y: -34.259277}
+        - {x: 2.8888931, y: -39.259277}
+        - {x: 8.888893, y: -39.259277}
+        - {x: 23.888893, y: -36.259277}
+        - {x: 26.888893, y: -27.259277}
+        - {x: 26.888893, y: -14.259277}
+    - name: npc_rube__x1_spawn_in_png_1354831067_36
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 2772
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.8333435, y: -14.259277}
+        - {x: -10.1666565, y: -18.259277}
+        - {x: -10.1666565, y: -37.259277}
+        - {x: 0.8333435, y: -39.259277}
+        - {x: 17.833344, y: -39.259277}
+        - {x: 25.833344, y: -31.259277}
+        - {x: 25.833344, y: -14.259277}
+    - name: npc_rube__x1_spawn_in_png_1354831067_37
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 2772
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.7777863, y: -14.259277}
+        - {x: -10.222214, y: -17.259277}
+        - {x: -10.222214, y: -32.259277}
+        - {x: 0.77778625, y: -39.259277}
+        - {x: 8.777786, y: -39.259277}
+        - {x: 25.777786, y: -29.259277}
+        - {x: 25.777786, y: -16.259277}
+        - {x: 23.777786, y: -14.259277}
+    - name: npc_rube__x1_spawn_in_png_1354831067_38
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2772
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.277771, y: -14.259277}
+        - {x: -10.277771, y: -15.259277}
+        - {x: -10.277771, y: -34.259277}
+        - {x: 0.722229, y: -39.259277}
+        - {x: 5.722229, y: -39.259277}
+        - {x: 25.722229, y: -29.259277}
+        - {x: 25.722229, y: -16.259277}
+        - {x: 22.722229, y: -14.259277}
+    - name: npc_rube__x1_spawn_in_png_1354831067_39
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 2772
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.333313, y: -14.259277}
+        - {x: -9.333313, y: -15.259277}
+        - {x: -9.333313, y: -33.259277}
+        - {x: 2.666687, y: -39.259277}
+        - {x: 6.666687, y: -39.259277}
+        - {x: 22.666687, y: -34.259277}
+        - {x: 26.666687, y: -27.259277}
+        - {x: 26.666687, y: -14.259277}
+    - name: npc_rube__x1_spawn_in_png_1354831067_40
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 2772
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.611115, y: -14.259277}
+        - {x: 2.6111145, y: -14.259277}
+        - {x: -10.3888855, y: -16.259277}
+        - {x: -10.3888855, y: -34.259277}
+        - {x: -0.3888855, y: -39.259277}
+        - {x: 11.6111145, y: -39.259277}
+        - {x: 25.611115, y: -31.259277}
+        - {x: 25.611115, y: -16.259277}
+    - name: npc_rube__x1_spawn_in_png_1354831067_41
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2772
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.05557251, y: -14.259277}
+        - {x: -9.9444275, y: -19.259277}
+        - {x: -9.9444275, y: -32.259277}
+        - {x: 2.0555725, y: -39.259277}
+        - {x: 8.0555725, y: -39.259277}
+        - {x: 27.055573, y: -29.259277}
+        - {x: 27.055573, y: -16.259277}
+        - {x: 26.055573, y: -14.259277}
+    - name: npc_rube__x1_spawn_in_png_1354831067_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2618
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: -14.300415}
+        - {x: -10.5, y: -16.300415}
+        - {x: -10.5, y: -34.300415}
+        - {x: 0.5, y: -39.300415}
+        - {x: 8.5, y: -39.300415}
+        - {x: 25.5, y: -29.300415}
+        - {x: 25.5, y: -16.300415}
+        - {x: 22.5, y: -14.300415}
+    - name: npc_rube__x1_spawn_in_png_1354831067_43
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 2618
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.9444466, y: -14.300415}
+        - {x: -10.055553, y: -18.300415}
+        - {x: -10.055553, y: -32.300415}
+        - {x: 1.9444466, y: -38.300415}
+        - {x: 11.944447, y: -38.300415}
+        - {x: 26.944447, y: -31.300415}
+        - {x: 26.944447, y: -14.300415}
+    - name: npc_rube__x1_spawn_in_png_1354831067_44
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 2618
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.11110687, y: -14.300415}
+        - {x: -9.111107, y: -18.300415}
+        - {x: -9.111107, y: -39.300415}
+        - {x: 11.888893, y: -39.300415}
+        - {x: 26.888893, y: -36.300415}
+        - {x: 26.888893, y: -15.300415}
+        - {x: 22.888893, y: -14.300415}
+    - name: npc_rube__x1_spawn_in_png_1354831067_45
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 2618
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.1666565, y: -14.300415}
+        - {x: -10.1666565, y: -18.300415}
+        - {x: -10.1666565, y: -32.300415}
+        - {x: 0.8333435, y: -39.300415}
+        - {x: 7.8333435, y: -39.300415}
+        - {x: 26.833344, y: -30.300415}
+        - {x: 26.833344, y: -15.300415}
+        - {x: 21.833344, y: -14.300415}
+    - name: npc_rube__x1_spawn_in_png_1354831067_46
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 2618
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.222214, y: -14.300415}
+        - {x: -9.222214, y: -32.300415}
+        - {x: -6.2222137, y: -34.300415}
+        - {x: -1.2222137, y: -39.300415}
+        - {x: 16.777786, y: -39.300415}
+        - {x: 26.777786, y: -31.300415}
+        - {x: 26.777786, y: -14.300415}
+    - name: npc_rube__x1_spawn_in_png_1354831067_47
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2618
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.277771, y: -14.300415}
+        - {x: -10.277771, y: -16.300415}
+        - {x: -10.277771, y: -32.300415}
+        - {x: -7.277771, y: -39.300415}
+        - {x: 9.722229, y: -39.300415}
+        - {x: 25.722229, y: -29.300415}
+        - {x: 25.722229, y: -14.300415}
+    - name: npc_rube__x1_spawn_in_png_1354831067_48
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 2618
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.666687, y: -14.300415}
+        - {x: -9.333313, y: -16.300415}
+        - {x: -9.333313, y: -32.300415}
+        - {x: -0.333313, y: -39.300415}
+        - {x: 8.666687, y: -39.300415}
+        - {x: 26.666687, y: -31.300415}
+        - {x: 26.666687, y: -14.300415}
+    - name: npc_rube__x1_spawn_in_png_1354831067_49
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 2618
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.3888855, y: -14.300415}
+        - {x: -10.3888855, y: -19.300415}
+        - {x: -10.3888855, y: -33.300415}
+        - {x: 0.6111145, y: -39.300415}
+        - {x: 11.6111145, y: -39.300415}
+        - {x: 25.611115, y: -30.300415}
+        - {x: 25.611115, y: -14.300415}
+    - name: npc_rube__x1_spawn_in_png_1354831067_50
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2618
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.9444275, y: -14.300415}
+        - {x: -9.9444275, y: -35.300415}
+        - {x: 2.0555725, y: -39.300415}
+        - {x: 10.0555725, y: -39.300415}
+        - {x: 27.055573, y: -32.300415}
+        - {x: 27.055573, y: -14.300415}
+    - name: npc_rube__x1_spawn_in_png_1354831067_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2464
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: -14.341553}
+        - {x: 6.5, y: -14.341553}
+        - {x: -9.5, y: -16.341553}
+        - {x: -10.5, y: -19.341553}
+        - {x: -10.5, y: -34.341553}
+        - {x: -0.5, y: -39.341553}
+        - {x: 7.5, y: -39.341553}
+        - {x: 15.5, y: -37.341553}
+        - {x: 25.5, y: -28.341553}
+        - {x: 25.5, y: -17.341553}
+    - name: npc_rube__x1_spawn_in_png_1354831067_52
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 2464
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.055553, y: -34.341553}
+        - {x: -5.0555534, y: -39.341553}
+        - {x: 12.944447, y: -39.341553}
+        - {x: 25.944447, y: -30.341553}
+        - {x: 26.944447, y: -26.341553}
+        - {x: 26.944447, y: -14.341553}
+        - {x: 0.94444656, y: -14.341553}
+        - {x: -10.055553, y: -15.341553}
+    - name: npc_rube__x1_spawn_in_png_1354831067_53
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 2464
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.888893, y: -14.341553}
+        - {x: -8.111107, y: -16.341553}
+        - {x: -9.111107, y: -19.341553}
+        - {x: -9.111107, y: -35.341553}
+        - {x: 0.8888931, y: -39.341553}
+        - {x: 12.888893, y: -39.341553}
+        - {x: 26.888893, y: -29.341553}
+        - {x: 26.888893, y: -17.341553}
+        - {x: 20.888893, y: -14.341553}
+    - name: npc_rube__x1_spawn_in_png_1354831067_54
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 2464
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.833344, y: -15.341553}
+        - {x: 18.833344, y: -14.341553}
+        - {x: 3.8333435, y: -14.341553}
+        - {x: -10.1666565, y: -19.341553}
+        - {x: -10.1666565, y: -34.341553}
+        - {x: 0.8333435, y: -39.341553}
+        - {x: 10.8333435, y: -39.341553}
+        - {x: 26.833344, y: -30.341553}
+        - {x: 26.833344, y: -17.341553}
+    - name: npc_rube__x1_spawn_in_png_1354831067_55
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 2464
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.7777863, y: -14.341553}
+        - {x: -9.222214, y: -19.341553}
+        - {x: -9.222214, y: -32.341553}
+        - {x: 1.7777863, y: -39.341553}
+        - {x: 6.7777863, y: -39.341553}
+        - {x: 26.777786, y: -32.341553}
+        - {x: 26.777786, y: -14.341553}
+    - name: npc_rube__x1_spawn_in_png_1354831067_56
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2464
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.277771, y: -14.341553}
+        - {x: -10.277771, y: -19.341553}
+        - {x: -10.277771, y: -33.341553}
+        - {x: 0.722229, y: -39.341553}
+        - {x: 11.722229, y: -39.341553}
+        - {x: 25.722229, y: -30.341553}
+        - {x: 25.722229, y: -14.341553}
+    - name: npc_rube__x1_spawn_in_png_1354831067_57
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 2464
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.333313, y: -34.341553}
+        - {x: -1.333313, y: -39.341553}
+        - {x: 9.666687, y: -39.341553}
+        - {x: 26.666687, y: -33.341553}
+        - {x: 26.666687, y: -14.341553}
+        - {x: -9.333313, y: -14.341553}
+    - name: npc_rube__x1_spawn_in_png_1354831067_58
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 2464
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.6111145, y: -14.341553}
+        - {x: -8.3888855, y: -18.341553}
+        - {x: -10.3888855, y: -19.341553}
+        - {x: -10.3888855, y: -32.341553}
+        - {x: -0.3888855, y: -39.341553}
+        - {x: 7.6111145, y: -39.341553}
+        - {x: 24.611115, y: -33.341553}
+        - {x: 25.611115, y: -28.341553}
+        - {x: 25.611115, y: -16.341553}
+        - {x: 19.611115, y: -14.341553}
+    - name: npc_rube__x1_spawn_in_png_1354831067_59
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2464
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.9444275, y: -14.341553}
+        - {x: -9.9444275, y: -36.341553}
+        - {x: 0.05557251, y: -39.341553}
+        - {x: 12.0555725, y: -39.341553}
+        - {x: 27.055573, y: -32.341553}
+        - {x: 27.055573, y: -14.341553}
+    - name: npc_rube__x1_spawn_in_png_1354831067_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2310
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: -14.38269}
+        - {x: -8.5, y: -15.38269}
+        - {x: -10.5, y: -20.38269}
+        - {x: -10.5, y: -35.38269}
+        - {x: -6.5, y: -36.38269}
+        - {x: 0.5, y: -39.38269}
+        - {x: 9.5, y: -39.38269}
+        - {x: 25.5, y: -29.38269}
+        - {x: 25.5, y: -17.38269}
+        - {x: 19.5, y: -14.38269}
+    - name: npc_rube__x1_spawn_in_png_1354831067_61
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 2310
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.055553, y: -14.38269}
+        - {x: -10.055553, y: -20.38269}
+        - {x: -10.055553, y: -36.38269}
+        - {x: -1.0555534, y: -39.38269}
+        - {x: 11.944447, y: -39.38269}
+        - {x: 26.944447, y: -31.38269}
+        - {x: 26.944447, y: -14.38269}
+    - name: npc_rube__x1_spawn_in_png_1354831067_62
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 2310
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.8888931, y: -14.38269}
+        - {x: -9.111107, y: -17.38269}
+        - {x: -9.111107, y: -33.38269}
+        - {x: -0.11110687, y: -39.38269}
+        - {x: 10.888893, y: -39.38269}
+        - {x: 24.888893, y: -35.38269}
+        - {x: 26.888893, y: -28.38269}
+        - {x: 26.888893, y: -14.38269}
+    - name: npc_rube__x1_spawn_in_png_1354831067_63
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 2310
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.1666565, y: -14.38269}
+        - {x: -7.1666565, y: -16.38269}
+        - {x: -10.1666565, y: -20.38269}
+        - {x: -10.1666565, y: -32.38269}
+        - {x: 1.8333435, y: -39.38269}
+        - {x: 9.8333435, y: -39.38269}
+        - {x: 26.833344, y: -29.38269}
+        - {x: 26.833344, y: -15.38269}
+        - {x: 24.833344, y: -14.38269}
+    - name: npc_rube__x1_spawn_in_png_1354831067_64
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 2310
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.7777863, y: -14.38269}
+        - {x: -9.222214, y: -18.38269}
+        - {x: -9.222214, y: -34.38269}
+        - {x: 0.77778625, y: -39.38269}
+        - {x: 8.777786, y: -39.38269}
+        - {x: 26.777786, y: -30.38269}
+        - {x: 26.777786, y: -17.38269}
+        - {x: 25.777786, y: -14.38269}
+    - name: npc_rube__x1_spawn_in_png_1354831067_65
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2310
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.277771, y: -14.38269}
+        - {x: -10.277771, y: -17.38269}
+        - {x: -10.277771, y: -32.38269}
+        - {x: -0.277771, y: -39.38269}
+        - {x: 8.722229, y: -39.38269}
+        - {x: 25.722229, y: -31.38269}
+        - {x: 25.722229, y: -14.38269}
+    - name: npc_rube__x1_spawn_in_png_1354831067_66
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 2310
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.666687, y: -14.38269}
+        - {x: -8.333313, y: -16.38269}
+        - {x: -9.333313, y: -21.38269}
+        - {x: -9.333313, y: -34.38269}
+        - {x: 2.666687, y: -39.38269}
+        - {x: 6.666687, y: -39.38269}
+        - {x: 25.666687, y: -30.38269}
+        - {x: 26.666687, y: -28.38269}
+        - {x: 26.666687, y: -17.38269}
+        - {x: 25.666687, y: -14.38269}
+    - name: npc_rube__x1_spawn_in_png_1354831067_67
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 2310
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.3888855, y: -19.38269}
+        - {x: -10.3888855, y: -33.38269}
+        - {x: 1.6111145, y: -39.38269}
+        - {x: 5.6111145, y: -39.38269}
+        - {x: 25.611115, y: -30.38269}
+        - {x: 25.611115, y: -14.38269}
+        - {x: 7.6111145, y: -14.38269}
+        - {x: -8.3888855, y: -15.38269}
+    - name: npc_rube__x1_spawn_in_png_1354831067_68
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2310
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.9444275, y: -20.38269}
+        - {x: -9.9444275, y: -32.38269}
+        - {x: -8.9444275, y: -39.38269}
+        - {x: 10.0555725, y: -39.38269}
+        - {x: 27.055573, y: -36.38269}
+        - {x: 27.055573, y: -14.38269}
+        - {x: -3.9444275, y: -14.38269}
+    - name: npc_rube__x1_spawn_in_png_1354831067_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2156
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: -14.423828}
+        - {x: -10.5, y: -18.423828}
+        - {x: -10.5, y: -32.42383}
+        - {x: -9.5, y: -36.42383}
+        - {x: -4.5, y: -39.42383}
+        - {x: 10.5, y: -39.42383}
+        - {x: 25.5, y: -31.423828}
+        - {x: 25.5, y: -14.423828}
+    - name: npc_rube__x1_spawn_in_png_1354831067_70
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 2156
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.9444466, y: -14.423828}
+        - {x: -10.055553, y: -18.423828}
+        - {x: -10.055553, y: -32.42383}
+        - {x: -9.055553, y: -36.42383}
+        - {x: 1.9444466, y: -39.42383}
+        - {x: 8.944447, y: -39.42383}
+        - {x: 26.944447, y: -31.423828}
+        - {x: 26.944447, y: -14.423828}
+    - name: npc_rube__x1_spawn_in_png_1354831067_71
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 2156
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.1111069, y: -14.423828}
+        - {x: -9.111107, y: -19.423828}
+        - {x: -9.111107, y: -35.42383}
+        - {x: 1.8888931, y: -39.42383}
+        - {x: 6.888893, y: -39.42383}
+        - {x: 18.888893, y: -35.42383}
+        - {x: 26.888893, y: -28.423828}
+        - {x: 26.888893, y: -14.423828}
+    - name: npc_rube__x1_spawn_in_png_1354831067_72
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 2156
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.1666565, y: -16.423828}
+        - {x: -10.1666565, y: -32.42383}
+        - {x: -9.1666565, y: -36.42383}
+        - {x: 0.8333435, y: -39.42383}
+        - {x: 5.8333435, y: -39.42383}
+        - {x: 24.833344, y: -32.42383}
+        - {x: 26.833344, y: -27.423828}
+        - {x: 26.833344, y: -14.423828}
+        - {x: 0.8333435, y: -14.423828}
+        - {x: -8.1666565, y: -15.423828}
+    - name: npc_rube__x1_spawn_in_png_1354831067_73
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 2156
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.22221375, y: -14.423828}
+        - {x: -9.222214, y: -16.423828}
+        - {x: -9.222214, y: -34.42383}
+        - {x: 1.7777863, y: -39.42383}
+        - {x: 6.7777863, y: -39.42383}
+        - {x: 26.777786, y: -30.423828}
+        - {x: 26.777786, y: -16.423828}
+        - {x: 18.777786, y: -14.423828}
+    - name: npc_rube__x1_spawn_in_png_1354831067_74
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2156
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.277771, y: -14.423828}
+        - {x: -9.277771, y: -15.423828}
+        - {x: -10.277771, y: -20.423828}
+        - {x: -10.277771, y: -35.42383}
+        - {x: 0.722229, y: -39.42383}
+        - {x: 6.722229, y: -39.42383}
+        - {x: 24.722229, y: -33.42383}
+        - {x: 25.722229, y: -29.423828}
+        - {x: 25.722229, y: -16.423828}
+        - {x: 20.722229, y: -14.423828}
+    - name: npc_rube__x1_spawn_in_png_1354831067_75
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 2156
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.333313, y: -33.42383}
+        - {x: -1.333313, y: -38.42383}
+        - {x: 9.666687, y: -38.42383}
+        - {x: 26.666687, y: -31.423828}
+        - {x: 26.666687, y: -14.423828}
+        - {x: 0.666687, y: -14.423828}
+        - {x: -9.333313, y: -15.423828}
+    - name: npc_rube__x1_spawn_in_png_1354831067_76
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 2156
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.611115, y: -14.423828}
+        - {x: -1.3888855, y: -14.423828}
+        - {x: -10.3888855, y: -19.423828}
+        - {x: -10.3888855, y: -33.42383}
+        - {x: -1.3888855, y: -38.42383}
+        - {x: 22.611115, y: -38.42383}
+        - {x: 25.611115, y: -30.423828}
+        - {x: 25.611115, y: -15.423828}
+        - {x: 24.611115, y: -15.423828}
+    - name: npc_rube__x1_spawn_in_png_1354831067_77
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2156
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.055573, y: -16.423828}
+        - {x: 18.055573, y: -14.423828}
+        - {x: 4.0555725, y: -14.423828}
+        - {x: -9.9444275, y: -19.423828}
+        - {x: -9.9444275, y: -33.42383}
+        - {x: -1.9444275, y: -38.42383}
+        - {x: 11.0555725, y: -38.42383}
+        - {x: 26.055573, y: -34.42383}
+        - {x: 26.055573, y: -29.423828}
+        - {x: 27.055573, y: -21.423828}
+        - {x: 27.055573, y: -17.423828}
+    - name: npc_rube__x1_spawn_in_png_1354831067_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2002
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: -14.464966}
+        - {x: 1.5, y: -14.464966}
+        - {x: -10.5, y: -16.464966}
+        - {x: -10.5, y: -33.464966}
+        - {x: -1.5, y: -38.464966}
+        - {x: 7.5, y: -38.464966}
+        - {x: 17.5, y: -35.464966}
+        - {x: 25.5, y: -28.464966}
+        - {x: 25.5, y: -17.464966}
+    - name: npc_rube__x1_spawn_in_png_1354831067_79
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 2002
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.944447, y: -14.464966}
+        - {x: -4.0555534, y: -17.464966}
+        - {x: -7.0555534, y: -18.464966}
+        - {x: -10.055553, y: -20.464966}
+        - {x: -10.055553, y: -33.464966}
+        - {x: 1.9444466, y: -38.464966}
+        - {x: 9.944447, y: -38.464966}
+        - {x: 26.944447, y: -31.464966}
+        - {x: 26.944447, y: -14.464966}
+    - name: npc_rube__x1_spawn_in_png_1354831067_80
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 2002
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.111107, y: -14.464966}
+        - {x: -9.111107, y: -20.464966}
+        - {x: -9.111107, y: -35.464966}
+        - {x: -2.1111069, y: -38.464966}
+        - {x: 9.888893, y: -38.464966}
+        - {x: 18.888893, y: -35.464966}
+        - {x: 26.888893, y: -30.464966}
+        - {x: 26.888893, y: -14.464966}
+    - name: npc_rube__x1_spawn_in_png_1354831067_81
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 2002
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.1666565, y: -14.464966}
+        - {x: -10.1666565, y: -18.464966}
+        - {x: -10.1666565, y: -33.464966}
+        - {x: -3.1666565, y: -38.464966}
+        - {x: 12.8333435, y: -38.464966}
+        - {x: 26.833344, y: -32.464966}
+        - {x: 26.833344, y: -16.464966}
+        - {x: 23.833344, y: -14.464966}
+    - name: npc_rube__x1_spawn_in_png_1354831067_82
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 2002
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.2222137, y: -14.464966}
+        - {x: -9.222214, y: -17.464966}
+        - {x: -9.222214, y: -32.464966}
+        - {x: -8.222214, y: -35.464966}
+        - {x: -4.2222137, y: -38.464966}
+        - {x: 11.777786, y: -38.464966}
+        - {x: 26.777786, y: -31.464966}
+        - {x: 26.777786, y: -15.464966}
+        - {x: 21.777786, y: -14.464966}
+    - name: npc_rube__x1_spawn_in_png_1354831067_83
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2002
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.277771, y: -14.464966}
+        - {x: -10.277771, y: -18.464966}
+        - {x: -10.277771, y: -34.464966}
+        - {x: 1.722229, y: -38.464966}
+        - {x: 12.722229, y: -38.464966}
+        - {x: 25.722229, y: -30.464966}
+        - {x: 25.722229, y: -15.464966}
+        - {x: 23.722229, y: -14.464966}
+    - name: npc_rube__x1_spawn_in_png_1354831067_84
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 2002
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.666687, y: -14.464966}
+        - {x: 0.666687, y: -14.464966}
+        - {x: -9.333313, y: -18.464966}
+        - {x: -9.333313, y: -34.464966}
+        - {x: -1.333313, y: -38.464966}
+        - {x: 14.666687, y: -38.464966}
+        - {x: 25.666687, y: -28.464966}
+        - {x: 26.666687, y: -25.464966}
+        - {x: 26.666687, y: -15.464966}
+    - name: npc_rube__x1_spawn_in_png_1354831067_85
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 2002
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.3888855, y: -14.464966}
+        - {x: -10.3888855, y: -16.464966}
+        - {x: -10.3888855, y: -34.464966}
+        - {x: 1.6111145, y: -38.464966}
+        - {x: 10.6111145, y: -38.464966}
+        - {x: 25.611115, y: -30.464966}
+        - {x: 25.611115, y: -18.464966}
+        - {x: 24.611115, y: -14.464966}
+    - name: npc_rube__x1_spawn_in_png_1354831067_86
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2002
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.055573, y: -14.464966}
+        - {x: 3.0555725, y: -14.464966}
+        - {x: -9.9444275, y: -16.464966}
+        - {x: -9.9444275, y: -34.464966}
+        - {x: 1.0555725, y: -38.464966}
+        - {x: 13.0555725, y: -38.464966}
+        - {x: 26.055573, y: -29.464966}
+        - {x: 27.055573, y: -23.464966}
+        - {x: 27.055573, y: -16.464966}
+    - name: npc_rube__x1_spawn_in_png_1354831067_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1848
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: -14.5061035}
+        - {x: -10.5, y: -19.506104}
+        - {x: -10.5, y: -38.506104}
+        - {x: 21.5, y: -38.506104}
+        - {x: 25.5, y: -32.506104}
+        - {x: 25.5, y: -14.5061035}
+    - name: npc_rube__x1_spawn_in_png_1354831067_88
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1848
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.944447, y: -14.5061035}
+        - {x: 0.94444656, y: -14.5061035}
+        - {x: -10.055553, y: -18.506104}
+        - {x: -10.055553, y: -35.506104}
+        - {x: 1.9444466, y: -38.506104}
+        - {x: 11.944447, y: -38.506104}
+        - {x: 26.944447, y: -29.506104}
+        - {x: 26.944447, y: -16.506104}
+    - name: npc_rube__x1_spawn_in_png_1354831067_89
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1848
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.11110687, y: -14.5061035}
+        - {x: -9.111107, y: -17.506104}
+        - {x: -9.111107, y: -35.506104}
+        - {x: -1.1111069, y: -38.506104}
+        - {x: 14.888893, y: -38.506104}
+        - {x: 26.888893, y: -30.506104}
+        - {x: 26.888893, y: -14.5061035}
+    - name: npc_rube__x1_spawn_in_png_1354831067_90
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1848
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.833344, y: 24.493896}
+        - {x: 12.8333435, y: 27.493896}
+        - {x: -1.1666565, y: 27.493896}
+        - {x: -9.1666565, y: 22.493896}
+        - {x: -22.166656, y: 0.49389648}
+        - {x: -26.166656, y: -28.506104}
+        - {x: -15.1666565, y: -44.506104}
+        - {x: -1.1666565, y: -44.506104}
+        - {x: 19.833344, y: -38.506104}
+        - {x: 27.833344, y: -27.506104}
+        - {x: 27.833344, y: 18.493896}
+    - name: npc_rube__x1_spawn_in_png_1354831067_91
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1848
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.2222137, y: 26.493896}
+        - {x: -25.222214, y: 14.4938965}
+        - {x: -25.222214, y: -35.506104}
+        - {x: -19.222214, y: -44.506104}
+        - {x: 7.7777863, y: -44.506104}
+        - {x: 29.777786, y: -33.506104}
+        - {x: 29.777786, y: 21.493896}
+        - {x: 26.777786, y: 26.493896}
+    - name: npc_rube__x1_spawn_in_png_1354831067_92
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1848
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.722229, y: 26.493896}
+        - {x: 3.722229, y: 26.493896}
+        - {x: -10.277771, y: 21.493896}
+        - {x: -22.277771, y: 0.49389648}
+        - {x: -26.277771, y: -20.506104}
+        - {x: -26.277771, y: -33.506104}
+        - {x: -19.277771, y: -44.506104}
+        - {x: 0.722229, y: -44.506104}
+        - {x: 27.722229, y: -29.506104}
+        - {x: 28.722229, y: -16.506104}
+        - {x: 28.722229, y: 17.493896}
+    - name: npc_rube__x1_spawn_in_png_1354831067_93
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1848
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.333313, y: 27.493896}
+        - {x: -26.333313, y: 0.49389648}
+        - {x: -26.333313, y: -42.506104}
+        - {x: -24.333313, y: -44.506104}
+        - {x: 11.666687, y: -44.506104}
+        - {x: 29.666687, y: -39.506104}
+        - {x: 29.666687, y: 27.493896}
+    - name: npc_rube__x1_spawn_in_png_1354831067_94
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1848
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.6111145, y: 28.493896}
+        - {x: -11.3888855, y: 23.493896}
+        - {x: -24.388885, y: -0.5061035}
+        - {x: -26.388885, y: -19.506104}
+        - {x: -26.388885, y: -32.506104}
+        - {x: -18.388885, y: -44.506104}
+        - {x: -0.3888855, y: -44.506104}
+        - {x: 27.611115, y: -33.506104}
+        - {x: 27.611115, y: 21.493896}
+        - {x: 17.611115, y: 28.493896}
+    - name: npc_rube__x1_spawn_in_png_1354831067_95
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1848
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.055573, y: 28.493896}
+        - {x: -12.9444275, y: 28.493896}
+        - {x: -16.944427, y: 27.493896}
+        - {x: -25.944427, y: -9.5061035}
+        - {x: -25.944427, y: -34.506104}
+        - {x: -16.944427, y: -44.506104}
+        - {x: 2.0555725, y: -44.506104}
+        - {x: 27.055573, y: -29.506104}
+        - {x: 28.055573, y: -26.506104}
+        - {x: 28.055573, y: 20.493896}
+    - name: npc_rube__x1_spawn_in_png_1354831067_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1694
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 28.452698}
+        - {x: -24.5, y: 10.452698}
+        - {x: -26.5, y: -5.5473022}
+        - {x: -26.5, y: -35.547302}
+        - {x: -19.5, y: -44.547302}
+        - {x: -2.5, y: -44.547302}
+        - {x: 18.5, y: -37.547302}
+        - {x: 27.5, y: -31.547302}
+        - {x: 27.5, y: 24.452698}
+        - {x: 17.5, y: 28.452698}
+    - name: npc_rube__x1_spawn_in_png_1354831067_97
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1694
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.055553, y: 28.452698}
+        - {x: -26.055553, y: -6.5473022}
+        - {x: -26.055553, y: -38.547302}
+        - {x: -21.055553, y: -44.547302}
+        - {x: 0.94444656, y: -44.547302}
+        - {x: 27.944447, y: -31.547302}
+        - {x: 27.944447, y: 22.452698}
+        - {x: 20.944447, y: 28.452698}
+    - name: npc_rube__x1_spawn_in_png_1354831067_98
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1694
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.111107, y: 29.452698}
+        - {x: -22.111107, y: 12.452698}
+        - {x: -25.111107, y: -17.547302}
+        - {x: -25.111107, y: -32.547302}
+        - {x: -17.111107, y: -44.547302}
+        - {x: -0.11110687, y: -44.547302}
+        - {x: 17.888893, y: -39.547302}
+        - {x: 27.888893, y: -28.547302}
+        - {x: 27.888893, y: 24.452698}
+        - {x: 19.888893, y: 29.452698}
+    - name: npc_rube__x1_spawn_in_png_1354831067_99
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1694
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.166656, y: 28.452698}
+        - {x: -26.166656, y: -18.547302}
+        - {x: -26.166656, y: -36.547302}
+        - {x: -24.166656, y: -44.547302}
+        - {x: 13.8333435, y: -44.547302}
+        - {x: 27.833344, y: -34.547302}
+        - {x: 27.833344, y: 28.452698}
+    - name: npc_rube__x1_spawn_in_png_1354831067_100
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1694
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.777786, y: 28.452698}
+        - {x: -4.2222137, y: 28.452698}
+        - {x: -24.222214, y: 8.452698}
+        - {x: -25.222214, y: -6.5473022}
+        - {x: -25.222214, y: -33.547302}
+        - {x: -19.222214, y: -44.547302}
+        - {x: 3.7777863, y: -44.547302}
+        - {x: 28.777786, y: -32.547302}
+        - {x: 28.777786, y: 21.452698}
+        - {x: 22.777786, y: 26.452698}
+    - name: npc_rube__x1_spawn_in_png_1354831067_101
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1694
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.722229, y: 29.452698}
+        - {x: -2.277771, y: 29.452698}
+        - {x: -18.277771, y: 25.452698}
+        - {x: -26.277771, y: -0.54730225}
+        - {x: -26.277771, y: -38.547302}
+        - {x: -19.277771, y: -44.547302}
+        - {x: 1.722229, y: -44.547302}
+        - {x: 26.722229, y: -33.547302}
+        - {x: 26.722229, y: 25.452698}
+        - {x: 17.722229, y: 28.452698}
+    - name: npc_rube__x1_spawn_in_png_1354831067_102
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1694
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.333313, y: 29.452698}
+        - {x: -23.333313, y: 8.452698}
+        - {x: -25.333313, y: -3.5473022}
+        - {x: -25.333313, y: -36.547302}
+        - {x: -18.333313, y: -44.547302}
+        - {x: 3.666687, y: -44.547302}
+        - {x: 26.666687, y: -38.547302}
+        - {x: 26.666687, y: 29.452698}
+    - name: npc_rube__x1_spawn_in_png_1354831067_103
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1694
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.3888855, y: 29.452698}
+        - {x: -12.3888855, y: 26.452698}
+        - {x: -26.388885, y: 6.4526978}
+        - {x: -26.388885, y: -34.547302}
+        - {x: -24.388885, y: -44.547302}
+        - {x: 9.6111145, y: -44.547302}
+        - {x: 26.611115, y: -36.547302}
+        - {x: 26.611115, y: 24.452698}
+        - {x: 15.6111145, y: 29.452698}
+      - - {x: -13.3888855, y: 45.452698}
+        - {x: -12.3888855, y: 42.452698}
+        - {x: -9.3888855, y: 42.452698}
+        - {x: -7.3888855, y: 44.452698}
+        - {x: -7.3888855, y: 45.452698}
+    - name: npc_rube__x1_spawn_in_png_1354831067_104
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1694
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.9444275, y: 29.452698}
+        - {x: -17.944427, y: 26.452698}
+        - {x: -24.944427, y: -8.547302}
+        - {x: -24.944427, y: -44.547302}
+        - {x: 10.0555725, y: -44.547302}
+        - {x: 27.055573, y: -40.547302}
+        - {x: 27.055573, y: 27.452698}
+        - {x: 24.055573, y: 29.452698}
+      - - {x: -12.9444275, y: 45.452698}
+        - {x: -11.9444275, y: 42.452698}
+        - {x: -7.9444275, y: 42.452698}
+        - {x: -5.9444275, y: 44.452698}
+        - {x: -5.9444275, y: 45.452698}
+    - name: npc_rube__x1_spawn_in_png_1354831067_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1540
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 30.41156}
+        - {x: -18.5, y: 29.41156}
+        - {x: -26.5, y: -4.58844}
+        - {x: -26.5, y: -37.58844}
+        - {x: -18.5, y: -44.58844}
+        - {x: -0.5, y: -44.58844}
+        - {x: 25.5, y: -32.58844}
+        - {x: 25.5, y: 27.41156}
+        - {x: 14.5, y: 30.41156}
+      - - {x: -13.5, y: 45.41156}
+        - {x: -12.5, y: 42.41156}
+        - {x: -9.5, y: 42.41156}
+        - {x: -7.5, y: 44.41156}
+        - {x: -7.5, y: 45.41156}
+    - name: npc_rube__x1_spawn_in_png_1354831067_106
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1540
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.055553, y: 30.41156}
+        - {x: -25.055553, y: 16.41156}
+        - {x: -25.055553, y: -43.58844}
+        - {x: -24.055553, y: -44.58844}
+        - {x: 10.944447, y: -44.58844}
+        - {x: 26.944447, y: -32.58844}
+        - {x: 26.944447, y: 27.41156}
+        - {x: 12.944447, y: 30.41156}
+      - - {x: -13.055553, y: 45.41156}
+        - {x: -12.055553, y: 42.41156}
+        - {x: -8.055553, y: 42.41156}
+        - {x: -6.0555534, y: 44.41156}
+        - {x: -6.0555534, y: 45.41156}
+    - name: npc_rube__x1_spawn_in_png_1354831067_107
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1540
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.111107, y: 29.41156}
+        - {x: -25.111107, y: 18.41156}
+        - {x: -25.111107, y: -44.58844}
+        - {x: 2.8888931, y: -44.58844}
+        - {x: 26.888893, y: -32.58844}
+        - {x: 26.888893, y: 27.41156}
+        - {x: 21.888893, y: 29.41156}
+      - - {x: -13.111107, y: 45.41156}
+        - {x: -12.111107, y: 42.41156}
+        - {x: -8.111107, y: 42.41156}
+        - {x: -6.111107, y: 44.41156}
+        - {x: -6.111107, y: 45.41156}
+    - name: npc_rube__x1_spawn_in_png_1354831067_108
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1540
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.1666565, y: 29.41156}
+        - {x: -18.166656, y: 27.41156}
+        - {x: -25.166656, y: -2.58844}
+        - {x: -25.166656, y: -40.58844}
+        - {x: -22.166656, y: -44.58844}
+        - {x: -1.1666565, y: -44.58844}
+        - {x: 26.833344, y: -32.58844}
+        - {x: 26.833344, y: 21.41156}
+        - {x: 18.833344, y: 29.41156}
+      - - {x: -13.1666565, y: 45.41156}
+        - {x: -12.1666565, y: 42.41156}
+        - {x: -8.1666565, y: 42.41156}
+        - {x: -6.1666565, y: 44.41156}
+        - {x: -6.1666565, y: 45.41156}
+    - name: npc_rube__x1_spawn_in_png_1354831067_109
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1540
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.222214, y: 31.41156}
+        - {x: -24.222214, y: -44.58844}
+        - {x: 3.7777863, y: -44.58844}
+        - {x: 26.777786, y: -29.58844}
+        - {x: 26.777786, y: 27.41156}
+        - {x: 14.777786, y: 31.41156}
+      - - {x: -13.222214, y: 45.41156}
+        - {x: -12.222214, y: 42.41156}
+        - {x: -8.222214, y: 42.41156}
+        - {x: -6.2222137, y: 44.41156}
+        - {x: -6.2222137, y: 45.41156}
+    - name: npc_rube__x1_spawn_in_png_1354831067_110
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1540
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.277771, y: 30.41156}
+        - {x: -23.277771, y: 19.41156}
+        - {x: -26.277771, y: -14.58844}
+        - {x: -26.277771, y: -32.58844}
+        - {x: -21.277771, y: -44.58844}
+        - {x: 4.722229, y: -44.58844}
+        - {x: 25.722229, y: -36.58844}
+        - {x: 25.722229, y: 28.41156}
+        - {x: 23.722229, y: 30.41156}
+      - - {x: -13.277771, y: 45.41156}
+        - {x: -12.277771, y: 42.41156}
+        - {x: -8.277771, y: 42.41156}
+        - {x: -6.277771, y: 44.41156}
+        - {x: -6.277771, y: 45.41156}
+    - name: npc_rube__x1_spawn_in_png_1354831067_111
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1540
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.333313, y: 30.41156}
+        - {x: -25.333313, y: -44.58844}
+        - {x: 6.666687, y: -44.58844}
+        - {x: 26.666687, y: -37.58844}
+        - {x: 26.666687, y: 30.41156}
+      - - {x: -13.333313, y: 45.41156}
+        - {x: -12.333313, y: 42.41156}
+        - {x: -8.333313, y: 42.41156}
+        - {x: -6.333313, y: 44.41156}
+        - {x: -6.333313, y: 45.41156}
+    - name: npc_rube__x1_spawn_in_png_1354831067_112
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1540
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.388885, y: 31.41156}
+        - {x: -25.388885, y: 4.41156}
+        - {x: -25.388885, y: -38.58844}
+        - {x: -18.388885, y: -44.58844}
+        - {x: 3.6111145, y: -44.58844}
+        - {x: 25.611115, y: -32.58844}
+        - {x: 25.611115, y: 25.41156}
+        - {x: 15.6111145, y: 31.41156}
+      - - {x: -13.3888855, y: 45.41156}
+        - {x: -12.3888855, y: 42.41156}
+        - {x: -8.3888855, y: 42.41156}
+        - {x: -6.3888855, y: 44.41156}
+        - {x: -6.3888855, y: 45.41156}
+    - name: npc_rube__x1_spawn_in_png_1354831067_113
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1540
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.944427, y: -35.58844}
+        - {x: -18.944427, y: -44.58844}
+        - {x: 2.0555725, y: -44.58844}
+        - {x: 27.055573, y: -36.58844}
+        - {x: 27.055573, y: 25.41156}
+        - {x: 26.055573, y: 31.41156}
+        - {x: -8.9444275, y: 31.41156}
+        - {x: -24.944427, y: 13.41156}
+      - - {x: -12.9444275, y: 45.41156}
+        - {x: -11.9444275, y: 42.41156}
+        - {x: -7.9444275, y: 42.41156}
+        - {x: -5.9444275, y: 44.41156}
+        - {x: -5.9444275, y: 45.41156}
+    - name: npc_rube__x1_spawn_in_png_1354831067_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1386
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 9.370361}
+        - {x: -26.5, y: -11.629639}
+        - {x: -26.5, y: -34.62964}
+        - {x: -19.5, y: -44.62964}
+        - {x: -0.5, y: -44.62964}
+        - {x: 25.5, y: -35.62964}
+        - {x: 25.5, y: 31.370361}
+        - {x: -20.5, y: 31.370361}
+      - - {x: -14.5, y: 45.37036}
+        - {x: -13.5, y: 42.37036}
+        - {x: -8.5, y: 42.37036}
+        - {x: -6.5, y: 44.37036}
+        - {x: -6.5, y: 45.37036}
+    - name: npc_rube__x1_spawn_in_png_1354831067_115
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1386
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.055553, y: 32.37036}
+        - {x: -25.055553, y: 11.370361}
+        - {x: -25.055553, y: -44.62964}
+        - {x: 1.9444466, y: -44.62964}
+        - {x: 12.944447, y: -41.62964}
+        - {x: 26.944447, y: -28.629639}
+        - {x: 26.944447, y: 17.370361}
+        - {x: 23.944447, y: 32.37036}
+      - - {x: -13.055553, y: 45.37036}
+        - {x: -12.055553, y: 42.37036}
+        - {x: -8.055553, y: 42.37036}
+        - {x: -6.0555534, y: 44.37036}
+        - {x: -6.0555534, y: 45.37036}
+    - name: npc_rube__x1_spawn_in_png_1354831067_116
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1386
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.111107, y: 31.370361}
+        - {x: -24.111107, y: 15.370361}
+        - {x: -24.111107, y: -44.62964}
+        - {x: 4.888893, y: -44.62964}
+        - {x: 26.888893, y: -37.62964}
+        - {x: 26.888893, y: 25.370361}
+        - {x: 24.888893, y: 31.370361}
+      - - {x: -13.111107, y: 45.37036}
+        - {x: -12.111107, y: 42.37036}
+        - {x: -7.111107, y: 42.37036}
+        - {x: -5.111107, y: 44.37036}
+        - {x: -5.111107, y: 45.37036}
+    - name: npc_rube__x1_spawn_in_png_1354831067_117
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1386
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.8333435, y: 31.370361}
+        - {x: -8.1666565, y: 31.370361}
+        - {x: -25.166656, y: 13.370361}
+        - {x: -25.166656, y: -37.62964}
+        - {x: -21.166656, y: -44.62964}
+        - {x: 3.8333435, y: -44.62964}
+        - {x: 26.833344, y: -34.62964}
+        - {x: 26.833344, y: 21.370361}
+        - {x: 18.833344, y: 29.370361}
+      - - {x: -13.1666565, y: 45.37036}
+        - {x: -12.1666565, y: 42.37036}
+        - {x: -8.1666565, y: 42.37036}
+        - {x: -6.1666565, y: 44.37036}
+        - {x: -6.1666565, y: 45.37036}
+    - name: npc_rube__x1_spawn_in_png_1354831067_118
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1386
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.222214, y: 32.37036}
+        - {x: -24.222214, y: 14.370361}
+        - {x: -24.222214, y: -42.62964}
+        - {x: -23.222214, y: -44.62964}
+        - {x: 2.7777863, y: -44.62964}
+        - {x: 26.777786, y: -39.62964}
+        - {x: 26.777786, y: 29.370361}
+        - {x: 20.777786, y: 32.37036}
+      - - {x: -13.222214, y: 45.37036}
+        - {x: -12.222214, y: 42.37036}
+        - {x: -8.222214, y: 42.37036}
+        - {x: -6.2222137, y: 44.37036}
+        - {x: -6.2222137, y: 45.37036}
+    - name: npc_rube__x1_spawn_in_png_1354831067_119
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1386
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.277771, y: 31.370361}
+        - {x: -25.277771, y: 23.370361}
+        - {x: -25.277771, y: -44.62964}
+        - {x: 3.722229, y: -44.62964}
+        - {x: 26.722229, y: -36.62964}
+        - {x: 26.722229, y: 27.370361}
+        - {x: 14.722229, y: 31.370361}
+      - - {x: -13.277771, y: 45.37036}
+        - {x: -12.277771, y: 42.37036}
+        - {x: -8.277771, y: 42.37036}
+        - {x: -6.277771, y: 44.37036}
+        - {x: -6.277771, y: 45.37036}
+    - name: npc_rube__x1_spawn_in_png_1354831067_120
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1386
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.333313, y: 32.37036}
+        - {x: -24.333313, y: 26.370361}
+        - {x: -24.333313, y: -44.62964}
+        - {x: -0.333313, y: -44.62964}
+        - {x: 26.666687, y: -30.629639}
+        - {x: 26.666687, y: 29.370361}
+        - {x: 14.666687, y: 32.37036}
+      - - {x: -13.333313, y: 45.37036}
+        - {x: -12.333313, y: 42.37036}
+        - {x: -8.333313, y: 42.37036}
+        - {x: -6.333313, y: 44.37036}
+        - {x: -6.333313, y: 45.37036}
+    - name: npc_rube__x1_spawn_in_png_1354831067_121
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1386
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.388885, y: 32.37036}
+        - {x: -25.388885, y: -38.62964}
+        - {x: -23.388885, y: -44.62964}
+        - {x: 0.6111145, y: -44.62964}
+        - {x: 25.611115, y: -30.629639}
+        - {x: 25.611115, y: 30.370361}
+        - {x: 23.611115, y: 32.37036}
+      - - {x: -13.3888855, y: 45.37036}
+        - {x: -12.3888855, y: 42.37036}
+        - {x: -8.3888855, y: 42.37036}
+        - {x: -6.3888855, y: 44.37036}
+        - {x: -6.3888855, y: 45.37036}
+    - name: npc_rube__x1_spawn_in_png_1354831067_122
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1386
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.9444275, y: 32.37036}
+        - {x: -17.944427, y: 28.370361}
+        - {x: -21.944427, y: 10.370361}
+        - {x: -22.944427, y: -0.6296387}
+        - {x: -24.944427, y: -14.629639}
+        - {x: -24.944427, y: -33.62964}
+        - {x: -15.9444275, y: -44.62964}
+        - {x: -0.9444275, y: -44.62964}
+        - {x: 27.055573, y: -33.62964}
+        - {x: 27.055573, y: 30.370361}
+        - {x: 24.055573, y: 32.37036}
+      - - {x: -13.9444275, y: 45.37036}
+        - {x: -12.9444275, y: 42.37036}
+        - {x: -7.9444275, y: 42.37036}
+        - {x: -5.9444275, y: 44.37036}
+        - {x: -5.9444275, y: 45.37036}
+    - name: npc_rube__x1_spawn_in_png_1354831067_123
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1232
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 33.329224}
+        - {x: -20.5, y: 27.329224}
+        - {x: -25.5, y: 10.329224}
+        - {x: -25.5, y: -39.670776}
+        - {x: -22.5, y: -44.670776}
+        - {x: 2.5, y: -44.670776}
+        - {x: 25.5, y: -34.670776}
+        - {x: 25.5, y: 29.329224}
+        - {x: 13.5, y: 33.329224}
+      - - {x: -14.5, y: 45.329224}
+        - {x: -13.5, y: 42.329224}
+        - {x: -8.5, y: 42.329224}
+        - {x: -6.5, y: 44.329224}
+        - {x: -6.5, y: 45.329224}
+    - name: npc_rube__x1_spawn_in_png_1354831067_124
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1232
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.055553, y: 33.329224}
+        - {x: -24.055553, y: 14.329224}
+        - {x: -24.055553, y: -39.670776}
+        - {x: -23.055553, y: -44.670776}
+        - {x: 4.9444466, y: -44.670776}
+        - {x: 26.944447, y: -30.670776}
+        - {x: 26.944447, y: 32.329224}
+        - {x: 24.944447, y: 33.329224}
+      - - {x: -8.055553, y: 43.329224}
+        - {x: -8.055553, y: 45.329224}
+        - {x: -13.055553, y: 45.329224}
+        - {x: -11.055553, y: 42.329224}
+    - name: npc_rube__x1_spawn_in_png_1354831067_125
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1232
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.111107, y: 32.329224}
+        - {x: -24.111107, y: -36.670776}
+        - {x: -18.111107, y: -44.670776}
+        - {x: -0.11110687, y: -44.670776}
+        - {x: 26.888893, y: -34.670776}
+        - {x: 26.888893, y: 30.329224}
+        - {x: 25.888893, y: 32.329224}
+      - - {x: -13.111107, y: 45.329224}
+        - {x: -12.111107, y: 42.329224}
+        - {x: -7.111107, y: 42.329224}
+        - {x: -5.111107, y: 44.329224}
+        - {x: -5.111107, y: 45.329224}
+    - name: npc_rube__x1_spawn_in_png_1354831067_126
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1232
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.833344, y: 33.329224}
+        - {x: -14.1666565, y: 33.329224}
+        - {x: -24.166656, y: 16.329224}
+        - {x: -24.166656, y: -34.670776}
+        - {x: -20.166656, y: -44.670776}
+        - {x: 1.8333435, y: -44.670776}
+        - {x: 26.833344, y: -29.670776}
+        - {x: 26.833344, y: 30.329224}
+      - - {x: -14.1666565, y: 45.329224}
+        - {x: -13.1666565, y: 42.329224}
+        - {x: -8.1666565, y: 42.329224}
+        - {x: -6.1666565, y: 44.329224}
+        - {x: -6.1666565, y: 45.329224}
+    - name: npc_rube__x1_spawn_in_png_1354831067_127
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1232
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.777786, y: -13.670776}
+        - {x: 24.777786, y: -12.670776}
+        - {x: 22.777786, y: 33.329224}
+        - {x: -21.222214, y: 33.329224}
+        - {x: -24.222214, y: 15.329224}
+        - {x: -24.222214, y: -38.670776}
+        - {x: -21.222214, y: -44.670776}
+        - {x: -1.2222137, y: -44.670776}
+        - {x: 23.777786, y: -31.670776}
+        - {x: 25.777786, y: -28.670776}
+        - {x: 26.777786, y: -24.670776}
+      - - {x: -13.222214, y: 45.329224}
+        - {x: -12.222214, y: 42.329224}
+        - {x: -7.2222137, y: 42.329224}
+        - {x: -5.2222137, y: 44.329224}
+        - {x: -5.2222137, y: 45.329224}
+    - name: npc_rube__x1_spawn_in_png_1354831067_128
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1232
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.277771, y: 32.329224}
+        - {x: -24.277771, y: 23.329224}
+        - {x: -24.277771, y: -40.670776}
+        - {x: -20.277771, y: -44.670776}
+        - {x: -2.277771, y: -44.670776}
+        - {x: 25.722229, y: -35.670776}
+        - {x: 25.722229, y: 29.329224}
+        - {x: 20.722229, y: 32.329224}
+      - - {x: -14.277771, y: 45.329224}
+        - {x: -13.277771, y: 42.329224}
+        - {x: -8.277771, y: 42.329224}
+        - {x: -6.277771, y: 44.329224}
+        - {x: -6.277771, y: 45.329224}
+    - name: npc_rube__x1_spawn_in_png_1354831067_129
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1232
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.333313, y: 33.329224}
+        - {x: -24.333313, y: 24.329224}
+        - {x: -24.333313, y: -37.670776}
+        - {x: -22.333313, y: -44.670776}
+        - {x: -0.333313, y: -44.670776}
+        - {x: 26.666687, y: -35.670776}
+        - {x: 26.666687, y: 30.329224}
+        - {x: 16.666687, y: 33.329224}
+      - - {x: -8.333313, y: 43.329224}
+        - {x: -8.333313, y: 45.329224}
+        - {x: -13.333313, y: 45.329224}
+        - {x: -11.333313, y: 42.329224}
+    - name: npc_rube__x1_spawn_in_png_1354831067_130
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1232
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.388885, y: 33.329224}
+        - {x: -24.388885, y: 31.329224}
+        - {x: -24.388885, y: -44.670776}
+        - {x: 3.6111145, y: -44.670776}
+        - {x: 25.611115, y: -37.670776}
+        - {x: 25.611115, y: 12.329224}
+        - {x: 18.611115, y: 33.329224}
+      - - {x: -8.3888855, y: 43.329224}
+        - {x: -8.3888855, y: 45.329224}
+        - {x: -13.3888855, y: 45.329224}
+        - {x: -11.3888855, y: 42.329224}
+    - name: npc_rube__x1_spawn_in_png_1354831067_131
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1232
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.944427, y: -44.670776}
+        - {x: 7.0555725, y: -44.670776}
+        - {x: 27.055573, y: -36.670776}
+        - {x: 27.055573, y: 13.329224}
+        - {x: 25.055573, y: 30.329224}
+        - {x: 14.0555725, y: 33.329224}
+        - {x: -17.944427, y: 33.329224}
+        - {x: -23.944427, y: 29.329224}
+      - - {x: -13.9444275, y: 45.329224}
+        - {x: -12.9444275, y: 42.329224}
+        - {x: -7.9444275, y: 42.329224}
+        - {x: -5.9444275, y: 44.329224}
+        - {x: -5.9444275, y: 45.329224}
+    - name: npc_rube__x1_spawn_in_png_1354831067_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1078
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 33.288086}
+        - {x: -22.5, y: 24.288086}
+        - {x: -25.5, y: -2.711914}
+        - {x: -25.5, y: -40.711914}
+        - {x: -18.5, y: -44.711914}
+        - {x: 8.5, y: -44.711914}
+        - {x: 25.5, y: -35.711914}
+        - {x: 25.5, y: 33.288086}
+      - - {x: -9.5, y: 43.288086}
+        - {x: -9.5, y: 45.288086}
+        - {x: -14.5, y: 45.288086}
+        - {x: -12.5, y: 42.288086}
+    - name: npc_rube__x1_spawn_in_png_1354831067_133
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1078
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.055553, y: 34.288086}
+        - {x: -24.055553, y: 33.288086}
+        - {x: -24.055553, y: -37.711914}
+        - {x: -20.055553, y: -44.711914}
+        - {x: 4.9444466, y: -44.711914}
+        - {x: 26.944447, y: -40.711914}
+        - {x: 26.944447, y: 34.288086}
+      - - {x: -8.055553, y: 43.288086}
+        - {x: -8.055553, y: 45.288086}
+        - {x: -13.055553, y: 45.288086}
+        - {x: -11.055553, y: 42.288086}
+    - name: npc_rube__x1_spawn_in_png_1354831067_134
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1078
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.111107, y: 34.288086}
+        - {x: -24.111107, y: 19.288086}
+        - {x: -24.111107, y: -44.711914}
+        - {x: 0.8888931, y: -44.711914}
+        - {x: 26.888893, y: -35.711914}
+        - {x: 26.888893, y: 31.288086}
+        - {x: 20.888893, y: 34.288086}
+      - - {x: -13.111107, y: 45.288086}
+        - {x: -12.111107, y: 42.288086}
+        - {x: -7.111107, y: 42.288086}
+        - {x: -5.111107, y: 44.288086}
+        - {x: -5.111107, y: 45.288086}
+    - name: npc_rube__x1_spawn_in_png_1354831067_135
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1078
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.833344, y: -7.711914}
+        - {x: 17.833344, y: 34.288086}
+        - {x: -13.1666565, y: 34.288086}
+        - {x: -24.166656, y: 16.288086}
+        - {x: -24.166656, y: -34.711914}
+        - {x: -17.166656, y: -44.711914}
+        - {x: -4.1666565, y: -44.711914}
+        - {x: 1.8333435, y: -42.711914}
+        - {x: 26.833344, y: -29.711914}
+      - - {x: -8.1666565, y: 43.288086}
+        - {x: -8.1666565, y: 45.288086}
+        - {x: -13.1666565, y: 45.288086}
+        - {x: -11.1666565, y: 42.288086}
+    - name: npc_rube__x1_spawn_in_png_1354831067_136
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1078
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.777786, y: 34.288086}
+        - {x: -19.222214, y: 34.288086}
+        - {x: -24.222214, y: 15.288086}
+        - {x: -24.222214, y: -29.711914}
+        - {x: -23.222214, y: -33.711914}
+        - {x: -17.222214, y: -44.711914}
+        - {x: -1.2222137, y: -44.711914}
+        - {x: 26.777786, y: -29.711914}
+        - {x: 26.777786, y: 0.28808594}
+        - {x: 19.777786, y: 27.288086}
+      - - {x: -8.222214, y: 43.288086}
+        - {x: -8.222214, y: 45.288086}
+        - {x: -13.222214, y: 45.288086}
+        - {x: -11.222214, y: 42.288086}
+    - name: npc_rube__x1_spawn_in_png_1354831067_137
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1078
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.722229, y: 34.288086}
+        - {x: -10.277771, y: 34.288086}
+        - {x: -24.277771, y: 28.288086}
+        - {x: -24.277771, y: -37.711914}
+        - {x: -20.277771, y: -44.711914}
+        - {x: 0.722229, y: -44.711914}
+        - {x: 25.722229, y: -35.711914}
+        - {x: 25.722229, y: 1.2880859}
+        - {x: 18.722229, y: 28.288086}
+      - - {x: -14.277771, y: 45.288086}
+        - {x: -13.277771, y: 42.288086}
+        - {x: -8.277771, y: 42.288086}
+        - {x: -6.277771, y: 44.288086}
+        - {x: -6.277771, y: 45.288086}
+    - name: npc_rube__x1_spawn_in_png_1354831067_138
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1078
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.666687, y: 34.288086}
+        - {x: -22.333313, y: 34.288086}
+        - {x: -24.333313, y: 27.288086}
+        - {x: -24.333313, y: -44.711914}
+        - {x: 2.666687, y: -44.711914}
+        - {x: 22.666687, y: -39.711914}
+        - {x: 26.666687, y: -33.711914}
+        - {x: 26.666687, y: 26.288086}
+        - {x: 24.666687, y: 31.288086}
+      - - {x: -8.333313, y: 43.288086}
+        - {x: -8.333313, y: 45.288086}
+        - {x: -13.333313, y: 45.288086}
+        - {x: -11.333313, y: 42.288086}
+    - name: npc_rube__x1_spawn_in_png_1354831067_139
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1078
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.611115, y: 34.288086}
+        - {x: -23.388885, y: 34.288086}
+        - {x: -25.388885, y: 28.288086}
+        - {x: -25.388885, y: -44.711914}
+        - {x: -0.3888855, y: -44.711914}
+        - {x: 25.611115, y: -33.711914}
+        - {x: 25.611115, y: 21.288086}
+        - {x: 23.611115, y: 32.288086}
+      - - {x: -8.3888855, y: 43.288086}
+        - {x: -8.3888855, y: 45.288086}
+        - {x: -13.3888855, y: 45.288086}
+        - {x: -11.3888855, y: 42.288086}
+    - name: npc_rube__x1_spawn_in_png_1354831067_140
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1078
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.9444275, y: 34.288086}
+        - {x: -24.944427, y: 28.288086}
+        - {x: -24.944427, y: -44.711914}
+        - {x: 14.0555725, y: -44.711914}
+        - {x: 27.055573, y: -32.711914}
+        - {x: 27.055573, y: 21.288086}
+        - {x: 18.055573, y: 34.288086}
+      - - {x: -7.9444275, y: 43.288086}
+        - {x: -7.9444275, y: 45.288086}
+        - {x: -12.9444275, y: 45.288086}
+        - {x: -10.9444275, y: 42.288086}
+    - name: npc_rube__x1_spawn_in_png_1354831067_141
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 924
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 34.24695}
+        - {x: -25.5, y: 26.246948}
+        - {x: -25.5, y: -37.75305}
+        - {x: -18.5, y: -44.75305}
+        - {x: 5.5, y: -44.75305}
+        - {x: 25.5, y: -29.753052}
+        - {x: 25.5, y: 34.24695}
+      - - {x: -9.5, y: 43.24695}
+        - {x: -9.5, y: 45.24695}
+        - {x: -14.5, y: 45.24695}
+        - {x: -12.5, y: 42.24695}
+    - name: npc_rube__x1_spawn_in_png_1354831067_142
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 924
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.055553, y: 35.24695}
+        - {x: -25.055553, y: 23.246948}
+        - {x: -25.055553, y: -35.75305}
+        - {x: -17.055553, y: -44.75305}
+        - {x: -1.0555534, y: -44.75305}
+        - {x: 26.944447, y: -29.753052}
+        - {x: 26.944447, y: 4.2469482}
+        - {x: 15.944447, y: 35.24695}
+      - - {x: -8.055553, y: 43.24695}
+        - {x: -8.055553, y: 45.24695}
+        - {x: -13.055553, y: 45.24695}
+        - {x: -11.055553, y: 42.24695}
+    - name: npc_rube__x1_spawn_in_png_1354831067_143
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 924
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.111107, y: 35.24695}
+        - {x: -25.111107, y: -44.75305}
+        - {x: 15.888893, y: -44.75305}
+        - {x: 26.888893, y: -30.753052}
+        - {x: 26.888893, y: 22.246948}
+        - {x: 19.888893, y: 35.24695}
+      - - {x: -13.111107, y: 45.24695}
+        - {x: -12.111107, y: 42.24695}
+        - {x: -9.111107, y: 42.24695}
+        - {x: -7.111107, y: 44.24695}
+        - {x: -7.111107, y: 45.24695}
+    - name: npc_rube__x1_spawn_in_png_1354831067_144
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 924
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.8333435, y: 35.24695}
+        - {x: -22.166656, y: 35.24695}
+        - {x: -25.166656, y: 34.24695}
+        - {x: -25.166656, y: -44.75305}
+        - {x: 3.8333435, y: -44.75305}
+        - {x: 23.833344, y: -36.75305}
+        - {x: 26.833344, y: -31.753052}
+        - {x: 26.833344, y: 5.2469482}
+        - {x: 20.833344, y: 31.246948}
+      - - {x: -8.1666565, y: 43.24695}
+        - {x: -8.1666565, y: 45.24695}
+        - {x: -13.1666565, y: 45.24695}
+        - {x: -11.1666565, y: 42.24695}
+    - name: npc_rube__x1_spawn_in_png_1354831067_145
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 924
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.222214, y: 35.24695}
+        - {x: -25.222214, y: 28.246948}
+        - {x: -25.222214, y: -44.75305}
+        - {x: 21.777786, y: -44.75305}
+        - {x: 26.777786, y: -34.75305}
+        - {x: 26.777786, y: 12.246948}
+        - {x: 14.777786, y: 35.24695}
+      - - {x: -8.222214, y: 43.24695}
+        - {x: -8.222214, y: 45.24695}
+        - {x: -13.222214, y: 45.24695}
+        - {x: -11.222214, y: 42.24695}
+    - name: npc_rube__x1_spawn_in_png_1354831067_146
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 924
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.277771, y: 35.24695}
+        - {x: -26.277771, y: 27.246948}
+        - {x: -26.277771, y: -30.753052}
+        - {x: -23.277771, y: -44.75305}
+        - {x: 1.722229, y: -44.75305}
+        - {x: 25.722229, y: -31.753052}
+        - {x: 25.722229, y: -0.75305176}
+        - {x: 17.722229, y: 35.24695}
+      - - {x: -8.277771, y: 43.24695}
+        - {x: -8.277771, y: 45.24695}
+        - {x: -13.277771, y: 45.24695}
+        - {x: -11.277771, y: 42.24695}
+    - name: npc_rube__x1_spawn_in_png_1354831067_147
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 924
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.333313, y: 35.24695}
+        - {x: -25.333313, y: 22.246948}
+        - {x: -25.333313, y: -30.753052}
+        - {x: -21.333313, y: -44.75305}
+        - {x: 14.666687, y: -44.75305}
+        - {x: 26.666687, y: -31.753052}
+        - {x: 26.666687, y: 20.246948}
+        - {x: 17.666687, y: 35.24695}
+      - - {x: -13.333313, y: 45.24695}
+        - {x: -12.333313, y: 42.24695}
+        - {x: -8.333313, y: 42.24695}
+        - {x: -6.333313, y: 44.24695}
+        - {x: -6.333313, y: 45.24695}
+    - name: npc_rube__x1_spawn_in_png_1354831067_148
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 924
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.388885, y: 35.24695}
+        - {x: -26.388885, y: 30.246948}
+        - {x: -26.388885, y: -44.75305}
+        - {x: 3.6111145, y: -44.75305}
+        - {x: 25.611115, y: -35.75305}
+        - {x: 25.611115, y: -6.7530518}
+        - {x: 15.6111145, y: 30.246948}
+        - {x: 10.6111145, y: 35.24695}
+      - - {x: -13.3888855, y: 45.24695}
+        - {x: -12.3888855, y: 42.24695}
+        - {x: -9.3888855, y: 42.24695}
+        - {x: -7.3888855, y: 44.24695}
+        - {x: -7.3888855, y: 45.24695}
+    - name: npc_rube__x1_spawn_in_png_1354831067_149
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 924
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.944427, y: 35.24695}
+        - {x: -24.944427, y: 33.24695}
+        - {x: -24.944427, y: -37.75305}
+        - {x: -20.944427, y: -44.75305}
+        - {x: 4.0555725, y: -44.75305}
+        - {x: 26.055573, y: -39.75305}
+        - {x: 27.055573, y: -39.75305}
+        - {x: 27.055573, y: 26.246948}
+        - {x: 15.0555725, y: 35.24695}
+      - - {x: -12.9444275, y: 45.24695}
+        - {x: -11.9444275, y: 42.24695}
+        - {x: -7.9444275, y: 42.24695}
+        - {x: -5.9444275, y: 44.24695}
+        - {x: -5.9444275, y: 45.24695}
+    - name: npc_rube__x1_spawn_in_png_1354831067_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 770
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 35.20578}
+        - {x: -22.5, y: 35.20578}
+        - {x: -26.5, y: 33.20578}
+        - {x: -26.5, y: -44.79422}
+        - {x: 7.5, y: -44.79422}
+        - {x: 25.5, y: -30.79422}
+        - {x: 25.5, y: 5.20578}
+        - {x: 19.5, y: 32.20578}
+      - - {x: -14.5, y: 45.20578}
+        - {x: -13.5, y: 42.20578}
+        - {x: -9.5, y: 42.20578}
+        - {x: -7.5, y: 44.20578}
+        - {x: -7.5, y: 45.20578}
+    - name: npc_rube__x1_spawn_in_png_1354831067_151
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 770
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.055553, y: 35.20578}
+        - {x: -25.055553, y: -44.79422}
+        - {x: 26.944447, y: -44.79422}
+        - {x: 26.944447, y: 35.20578}
+      - - {x: -13.055553, y: 45.20578}
+        - {x: -12.055553, y: 42.20578}
+        - {x: -8.055553, y: 42.20578}
+        - {x: -6.0555534, y: 44.20578}
+        - {x: -6.0555534, y: 45.20578}
+    - name: npc_rube__x1_spawn_in_png_1354831067_152
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 770
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.888893, y: 35.20578}
+        - {x: -18.111107, y: 35.20578}
+        - {x: -25.111107, y: 24.20578}
+        - {x: -25.111107, y: -42.79422}
+        - {x: -24.111107, y: -44.79422}
+        - {x: -2.1111069, y: -44.79422}
+        - {x: 26.888893, y: -33.79422}
+        - {x: 26.888893, y: 7.20578}
+        - {x: 19.888893, y: 32.20578}
+      - - {x: -13.111107, y: 45.20578}
+        - {x: -12.111107, y: 42.20578}
+        - {x: -8.111107, y: 42.20578}
+        - {x: -6.111107, y: 44.20578}
+        - {x: -6.111107, y: 45.20578}
+    - name: npc_rube__x1_spawn_in_png_1354831067_153
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 770
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.1666565, y: 35.20578}
+        - {x: -25.166656, y: 25.20578}
+        - {x: -25.166656, y: -33.79422}
+        - {x: -17.166656, y: -44.79422}
+        - {x: -0.1666565, y: -44.79422}
+        - {x: 26.833344, y: -30.79422}
+        - {x: 26.833344, y: 8.20578}
+        - {x: 13.8333435, y: 35.20578}
+      - - {x: -13.1666565, y: 45.20578}
+        - {x: -12.1666565, y: 42.20578}
+        - {x: -8.1666565, y: 42.20578}
+        - {x: -6.1666565, y: 44.20578}
+        - {x: -6.1666565, y: 45.20578}
+    - name: npc_rube__x1_spawn_in_png_1354831067_154
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 770
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.222214, y: 35.20578}
+        - {x: -25.222214, y: -44.79422}
+        - {x: 0.77778625, y: -44.79422}
+        - {x: 26.777786, y: -36.79422}
+        - {x: 26.777786, y: 7.20578}
+        - {x: 14.777786, y: 35.20578}
+      - - {x: -13.222214, y: 45.20578}
+        - {x: -12.222214, y: 42.20578}
+        - {x: -7.2222137, y: 42.20578}
+        - {x: -5.2222137, y: 44.20578}
+        - {x: -5.2222137, y: 45.20578}
+    - name: npc_rube__x1_spawn_in_png_1354831067_155
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 770
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.277771, y: 35.20578}
+        - {x: -26.277771, y: 30.20578}
+        - {x: -26.277771, y: -43.79422}
+        - {x: -20.277771, y: -44.79422}
+        - {x: 1.722229, y: -44.79422}
+        - {x: 25.722229, y: -29.79422}
+        - {x: 25.722229, y: 4.20578}
+        - {x: 14.722229, y: 35.20578}
+      - - {x: -13.277771, y: 45.20578}
+        - {x: -12.277771, y: 42.20578}
+        - {x: -9.277771, y: 42.20578}
+        - {x: -7.277771, y: 44.20578}
+        - {x: -7.277771, y: 45.20578}
+    - name: npc_rube__x1_spawn_in_png_1354831067_156
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 770
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.333313, y: 34.20578}
+        - {x: -25.333313, y: 29.20578}
+        - {x: -25.333313, y: -34.79422}
+        - {x: -17.333313, y: -44.79422}
+        - {x: -2.333313, y: -44.79422}
+        - {x: 1.666687, y: -42.79422}
+        - {x: 26.666687, y: -36.79422}
+        - {x: 26.666687, y: 34.20578}
+      - - {x: -13.333313, y: 45.20578}
+        - {x: -12.333313, y: 42.20578}
+        - {x: -8.333313, y: 42.20578}
+        - {x: -6.333313, y: 44.20578}
+        - {x: -6.333313, y: 45.20578}
+    - name: npc_rube__x1_spawn_in_png_1354831067_157
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 770
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.611115, y: 5.20578}
+        - {x: 22.611115, y: 33.20578}
+        - {x: 21.611115, y: 34.20578}
+        - {x: -18.388885, y: 34.20578}
+        - {x: -26.388885, y: 21.20578}
+        - {x: -26.388885, y: -31.79422}
+        - {x: -22.388885, y: -44.79422}
+        - {x: -4.3888855, y: -44.79422}
+        - {x: 1.6111145, y: -42.79422}
+        - {x: 25.611115, y: -32.79422}
+      - - {x: -13.3888855, y: 45.20578}
+        - {x: -12.3888855, y: 42.20578}
+        - {x: -9.3888855, y: 42.20578}
+        - {x: -7.3888855, y: 44.20578}
+        - {x: -7.3888855, y: 45.20578}
+    - name: npc_rube__x1_spawn_in_png_1354831067_158
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 770
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.9444275, y: 34.20578}
+        - {x: -24.944427, y: 30.20578}
+        - {x: -24.944427, y: -39.79422}
+        - {x: -23.944427, y: -44.79422}
+        - {x: 8.0555725, y: -44.79422}
+        - {x: 27.055573, y: -37.79422}
+        - {x: 27.055573, y: 6.20578}
+        - {x: 14.0555725, y: 34.20578}
+      - - {x: -12.9444275, y: 45.20578}
+        - {x: -11.9444275, y: 42.20578}
+        - {x: -7.9444275, y: 42.20578}
+        - {x: -5.9444275, y: 44.20578}
+        - {x: -5.9444275, y: 45.20578}
+    - name: npc_rube__x1_spawn_in_png_1354831067_159
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 616
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: 34.16461}
+        - {x: -13.5, y: 34.16461}
+        - {x: -25.5, y: 19.164612}
+        - {x: -25.5, y: -29.835388}
+        - {x: -22.5, y: -44.83539}
+        - {x: -2.5, y: -44.83539}
+        - {x: 23.5, y: -36.83539}
+        - {x: 25.5, y: -29.835388}
+        - {x: 25.5, y: 5.164612}
+        - {x: 20.5, y: 31.164612}
+      - - {x: -14.5, y: 45.16461}
+        - {x: -13.5, y: 42.16461}
+        - {x: -8.5, y: 42.16461}
+        - {x: -6.5, y: 44.16461}
+        - {x: -6.5, y: 45.16461}
+    - name: npc_rube__x1_spawn_in_png_1354831067_160
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 616
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.055553, y: 34.16461}
+        - {x: -25.055553, y: 23.164612}
+        - {x: -25.055553, y: -35.83539}
+        - {x: -21.055553, y: -44.83539}
+        - {x: 26.944447, y: -44.83539}
+        - {x: 26.944447, y: 34.16461}
+      - - {x: -13.055553, y: 45.16461}
+        - {x: -12.055553, y: 42.16461}
+        - {x: -8.055553, y: 42.16461}
+        - {x: -6.0555534, y: 44.16461}
+        - {x: -6.0555534, y: 45.16461}
+    - name: npc_rube__x1_spawn_in_png_1354831067_161
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 616
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.888893, y: 32.16461}
+        - {x: 10.888893, y: 34.16461}
+        - {x: -17.111107, y: 34.16461}
+        - {x: -24.111107, y: 29.164612}
+        - {x: -24.111107, y: -36.83539}
+        - {x: -23.111107, y: -44.83539}
+        - {x: -0.11110687, y: -44.83539}
+        - {x: 26.888893, y: -30.835388}
+        - {x: 26.888893, y: -11.835388}
+      - - {x: -13.111107, y: 45.16461}
+        - {x: -12.111107, y: 42.16461}
+        - {x: -8.111107, y: 42.16461}
+        - {x: -6.111107, y: 44.16461}
+        - {x: -6.111107, y: 45.16461}
+    - name: npc_rube__x1_spawn_in_png_1354831067_162
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 616
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.8333435, y: 34.16461}
+        - {x: -19.166656, y: 34.16461}
+        - {x: -25.166656, y: 29.164612}
+        - {x: -25.166656, y: -44.83539}
+        - {x: 1.8333435, y: -44.83539}
+        - {x: 26.833344, y: -30.835388}
+        - {x: 26.833344, y: 16.164612}
+        - {x: 23.833344, y: 32.16461}
+      - - {x: -13.1666565, y: 45.16461}
+        - {x: -12.1666565, y: 42.16461}
+        - {x: -8.1666565, y: 42.16461}
+        - {x: -6.1666565, y: 44.16461}
+        - {x: -6.1666565, y: 45.16461}
+    - name: npc_rube__x1_spawn_in_png_1354831067_163
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 616
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.777786, y: 34.16461}
+        - {x: -11.222214, y: 34.16461}
+        - {x: -24.222214, y: 29.164612}
+        - {x: -24.222214, y: -39.83539}
+        - {x: -20.222214, y: -44.83539}
+        - {x: 4.7777863, y: -44.83539}
+        - {x: 25.777786, y: -36.83539}
+        - {x: 26.777786, y: -34.83539}
+        - {x: 26.777786, y: 1.1646118}
+        - {x: 18.777786, y: 27.164612}
+      - - {x: -8.222214, y: 43.16461}
+        - {x: -8.222214, y: 45.16461}
+        - {x: -13.222214, y: 45.16461}
+        - {x: -11.222214, y: 42.16461}
+    - name: npc_rube__x1_spawn_in_png_1354831067_164
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 616
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.277771, y: 34.16461}
+        - {x: -25.277771, y: 27.164612}
+        - {x: -25.277771, y: -34.83539}
+        - {x: -22.277771, y: -44.83539}
+        - {x: 16.722229, y: -44.83539}
+        - {x: 25.722229, y: -41.83539}
+        - {x: 25.722229, y: 34.16461}
+      - - {x: -8.277771, y: 43.16461}
+        - {x: -8.277771, y: 45.16461}
+        - {x: -13.277771, y: 45.16461}
+        - {x: -11.277771, y: 42.16461}
+    - name: npc_rube__x1_spawn_in_png_1354831067_165
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 616
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.333313, y: 33.16461}
+        - {x: -25.333313, y: 31.164612}
+        - {x: -25.333313, y: -44.83539}
+        - {x: 26.666687, y: -44.83539}
+        - {x: 26.666687, y: 33.16461}
+      - - {x: -8.333313, y: 43.16461}
+        - {x: -8.333313, y: 45.16461}
+        - {x: -13.333313, y: 45.16461}
+        - {x: -11.333313, y: 42.16461}
+    - name: npc_rube__x1_spawn_in_png_1354831067_166
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 616
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.611115, y: -13.835388}
+        - {x: 20.611115, y: -1.8353882}
+        - {x: 17.611115, y: 27.164612}
+        - {x: 11.6111145, y: 33.16461}
+        - {x: -7.3888855, y: 33.16461}
+        - {x: -12.3888855, y: 32.16461}
+        - {x: -22.388885, y: 21.164612}
+        - {x: -25.388885, y: 11.164612}
+        - {x: -25.388885, y: -34.83539}
+        - {x: -23.388885, y: -44.83539}
+        - {x: 4.6111145, y: -44.83539}
+        - {x: 25.611115, y: -38.83539}
+        - {x: 25.611115, y: -14.835388}
+        - {x: 24.611115, y: -13.835388}
+      - - {x: -8.3888855, y: 43.16461}
+        - {x: -8.3888855, y: 45.16461}
+        - {x: -13.3888855, y: 45.16461}
+        - {x: -11.3888855, y: 42.16461}
+    - name: npc_rube__x1_spawn_in_png_1354831067_167
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 616
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.9444275, y: 33.16461}
+        - {x: -13.9444275, y: 29.164612}
+        - {x: -14.9444275, y: 18.164612}
+        - {x: -17.944427, y: 22.164612}
+        - {x: -19.944427, y: 23.164612}
+        - {x: -24.944427, y: 17.164612}
+        - {x: -24.944427, y: -39.83539}
+        - {x: -17.944427, y: -44.83539}
+        - {x: 15.0555725, y: -44.83539}
+        - {x: 27.055573, y: -39.83539}
+        - {x: 27.055573, y: 24.164612}
+        - {x: 16.055573, y: 33.16461}
+      - - {x: -12.9444275, y: 45.16461}
+        - {x: -11.9444275, y: 42.16461}
+        - {x: -8.9444275, y: 42.16461}
+        - {x: -6.9444275, y: 44.16461}
+        - {x: -6.9444275, y: 45.16461}
+    - name: npc_rube__x1_spawn_in_png_1354831067_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 462
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 33.123474}
+        - {x: -24.5, y: 33.123474}
+        - {x: -25.5, y: 31.123474}
+        - {x: -25.5, y: -43.876526}
+        - {x: -22.5, y: -44.876526}
+        - {x: 3.5, y: -44.876526}
+        - {x: 25.5, y: -36.876526}
+        - {x: 25.5, y: 21.123474}
+        - {x: 24.5, y: 30.123474}
+      - - {x: -15.5, y: 45.123474}
+        - {x: -14.5, y: 42.123474}
+        - {x: -8.5, y: 42.123474}
+        - {x: -6.5, y: 44.123474}
+        - {x: -6.5, y: 45.123474}
+    - name: npc_rube__x1_spawn_in_png_1354831067_169
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 462
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.055553, y: -32.876526}
+        - {x: -22.055553, y: -44.876526}
+        - {x: 0.94444656, y: -44.876526}
+        - {x: 26.944447, y: -36.876526}
+        - {x: 26.944447, y: -4.876526}
+        - {x: 20.944447, y: 30.123474}
+        - {x: 10.944447, y: 33.123474}
+        - {x: -16.055553, y: 33.123474}
+        - {x: -25.055553, y: 25.123474}
+      - - {x: -14.055553, y: 45.123474}
+        - {x: -13.055553, y: 42.123474}
+        - {x: -7.0555534, y: 42.123474}
+        - {x: -5.0555534, y: 44.123474}
+        - {x: -5.0555534, y: 45.123474}
+    - name: npc_rube__x1_spawn_in_png_1354831067_170
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 462
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.888893, y: 33.123474}
+        - {x: -8.111107, y: 33.123474}
+        - {x: -24.111107, y: 27.123474}
+        - {x: -24.111107, y: -37.876526}
+        - {x: -22.111107, y: -44.876526}
+        - {x: 2.8888931, y: -44.876526}
+        - {x: 26.888893, y: -32.876526}
+        - {x: 26.888893, y: -3.8765259}
+        - {x: 21.888893, y: 28.123474}
+      - - {x: -14.111107, y: 45.123474}
+        - {x: -13.111107, y: 42.123474}
+        - {x: -6.111107, y: 42.123474}
+        - {x: -4.111107, y: 44.123474}
+        - {x: -4.111107, y: 45.123474}
+    - name: npc_rube__x1_spawn_in_png_1354831067_171
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 462
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.8333435, y: 33.123474}
+        - {x: -18.166656, y: 33.123474}
+        - {x: -25.166656, y: 29.123474}
+        - {x: -25.166656, y: -44.876526}
+        - {x: 4.8333435, y: -44.876526}
+        - {x: 26.833344, y: -36.876526}
+        - {x: 26.833344, y: 9.123474}
+        - {x: 21.833344, y: 30.123474}
+      - - {x: -14.1666565, y: 45.123474}
+        - {x: -13.1666565, y: 42.123474}
+        - {x: -7.1666565, y: 42.123474}
+        - {x: -5.1666565, y: 44.123474}
+        - {x: -5.1666565, y: 45.123474}
+    - name: npc_rube__x1_spawn_in_png_1354831067_172
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 462
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.222214, y: 33.123474}
+        - {x: -24.222214, y: 22.123474}
+        - {x: -24.222214, y: -40.876526}
+        - {x: -17.222214, y: -44.876526}
+        - {x: 12.777786, y: -44.876526}
+        - {x: 26.777786, y: -36.876526}
+        - {x: 26.777786, y: -2.8765259}
+        - {x: 20.777786, y: 33.123474}
+      - - {x: -14.222214, y: 45.123474}
+        - {x: -13.222214, y: 42.123474}
+        - {x: -7.2222137, y: 42.123474}
+        - {x: -5.2222137, y: 44.123474}
+        - {x: -5.2222137, y: 45.123474}
+    - name: npc_rube__x1_spawn_in_png_1354831067_173
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 462
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.722229, y: -13.876526}
+        - {x: 20.722229, y: -8.876526}
+        - {x: 17.722229, y: 28.123474}
+        - {x: 10.722229, y: 33.123474}
+        - {x: -7.277771, y: 33.123474}
+        - {x: -13.277771, y: 32.123474}
+        - {x: -22.277771, y: 20.123474}
+        - {x: -25.277771, y: 5.123474}
+        - {x: -25.277771, y: 2.1234741}
+        - {x: -24.277771, y: -33.876526}
+        - {x: -19.277771, y: -44.876526}
+        - {x: 1.722229, y: -44.876526}
+        - {x: 25.722229, y: -30.876526}
+        - {x: 25.722229, y: -15.876526}
+        - {x: 24.722229, y: -13.876526}
+      - - {x: -14.277771, y: 45.123474}
+        - {x: -13.277771, y: 42.123474}
+        - {x: -7.277771, y: 42.123474}
+        - {x: -5.277771, y: 44.123474}
+        - {x: -5.277771, y: 45.123474}
+    - name: npc_rube__x1_spawn_in_png_1354831067_174
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 462
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.666687, y: 33.123474}
+        - {x: -16.333313, y: 33.123474}
+        - {x: -25.333313, y: 22.123474}
+        - {x: -25.333313, y: -42.876526}
+        - {x: -24.333313, y: -44.876526}
+        - {x: 2.666687, y: -44.876526}
+        - {x: 26.666687, y: -35.876526}
+        - {x: 26.666687, y: 28.123474}
+        - {x: 25.666687, y: 32.123474}
+      - - {x: -14.333313, y: 45.123474}
+        - {x: -13.333313, y: 42.123474}
+        - {x: -7.333313, y: 42.123474}
+        - {x: -5.333313, y: 44.123474}
+        - {x: -5.333313, y: 45.123474}
+    - name: npc_rube__x1_spawn_in_png_1354831067_175
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 462
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.611115, y: -13.876526}
+        - {x: 24.611115, y: -0.8765259}
+        - {x: 15.6111145, y: 33.123474}
+        - {x: -16.388885, y: 33.123474}
+        - {x: -25.388885, y: 29.123474}
+        - {x: -25.388885, y: -41.876526}
+        - {x: -19.388885, y: -44.876526}
+        - {x: 6.6111145, y: -44.876526}
+        - {x: 25.611115, y: -31.876526}
+        - {x: 25.611115, y: -15.876526}
+        - {x: 24.611115, y: -13.876526}
+      - - {x: -15.3888855, y: 45.123474}
+        - {x: -14.3888855, y: 42.123474}
+        - {x: -7.3888855, y: 42.123474}
+        - {x: -5.3888855, y: 44.123474}
+        - {x: -5.3888855, y: 45.123474}
+    - name: npc_rube__x1_spawn_in_png_1354831067_176
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 462
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.055573, y: 33.123474}
+        - {x: -19.944427, y: 33.123474}
+        - {x: -24.944427, y: 32.123474}
+        - {x: -24.944427, y: -35.876526}
+        - {x: -15.9444275, y: -44.876526}
+        - {x: 4.0555725, y: -44.876526}
+        - {x: 27.055573, y: -35.876526}
+        - {x: 27.055573, y: 15.123474}
+        - {x: 26.055573, y: 30.123474}
+      - - {x: -13.9444275, y: 45.123474}
+        - {x: -12.9444275, y: 42.123474}
+        - {x: -6.9444275, y: 42.123474}
+        - {x: -4.9444275, y: 44.123474}
+        - {x: -4.9444275, y: 45.123474}
+    - name: npc_rube__x1_spawn_in_png_1354831067_177
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 308
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: -12.917694}
+        - {x: 25.5, y: 4.082306}
+        - {x: 15.5, y: 33.082306}
+        - {x: -13.5, y: 33.082306}
+        - {x: -25.5, y: 17.082306}
+        - {x: -25.5, y: -35.917694}
+        - {x: -23.5, y: -44.917694}
+        - {x: 1.5, y: -44.917694}
+        - {x: 25.5, y: -30.917694}
+        - {x: 25.5, y: -15.917694}
+        - {x: 24.5, y: -13.917694}
+      - - {x: -15.5, y: 45.082306}
+        - {x: -14.5, y: 42.082306}
+        - {x: -7.5, y: 42.082306}
+        - {x: -5.5, y: 44.082306}
+        - {x: -5.5, y: 45.082306}
+    - name: npc_rube__x1_spawn_in_png_1354831067_178
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 308
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.055553, y: -30.917694}
+        - {x: -23.055553, y: -44.917694}
+        - {x: 3.9444466, y: -44.917694}
+        - {x: 26.944447, y: -36.917694}
+        - {x: 26.944447, y: -4.917694}
+        - {x: 19.944447, y: 29.082306}
+        - {x: 17.944447, y: 33.082306}
+        - {x: -15.055553, y: 33.082306}
+        - {x: -25.055553, y: 29.082306}
+      - - {x: -14.055553, y: 45.082306}
+        - {x: -13.055553, y: 42.082306}
+        - {x: -7.0555534, y: 42.082306}
+        - {x: -5.0555534, y: 44.082306}
+        - {x: -5.0555534, y: 45.082306}
+    - name: npc_rube__x1_spawn_in_png_1354831067_179
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 308
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.888893, y: 33.082306}
+        - {x: -10.111107, y: 33.082306}
+        - {x: -24.111107, y: 29.082306}
+        - {x: -24.111107, y: -44.917694}
+        - {x: 17.888893, y: -44.917694}
+        - {x: 26.888893, y: -36.917694}
+        - {x: 26.888893, y: 2.082306}
+        - {x: 22.888893, y: 29.082306}
+      - - {x: -14.111107, y: 45.082306}
+        - {x: -13.111107, y: 42.082306}
+        - {x: -6.111107, y: 42.082306}
+        - {x: -4.111107, y: 44.082306}
+        - {x: -4.111107, y: 45.082306}
+    - name: npc_rube__x1_spawn_in_png_1354831067_180
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 308
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.166656, y: 33.082306}
+        - {x: -25.166656, y: 22.082306}
+        - {x: -25.166656, y: -37.917694}
+        - {x: -23.166656, y: -44.917694}
+        - {x: 15.8333435, y: -44.917694}
+        - {x: 26.833344, y: -40.917694}
+        - {x: 26.833344, y: 12.082306}
+        - {x: 23.833344, y: 31.082306}
+        - {x: 18.833344, y: 33.082306}
+      - - {x: -14.1666565, y: 45.082306}
+        - {x: -13.1666565, y: 42.082306}
+        - {x: -7.1666565, y: 42.082306}
+        - {x: -5.1666565, y: 44.082306}
+        - {x: -5.1666565, y: 45.082306}
+    - name: npc_rube__x1_spawn_in_png_1354831067_181
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 308
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.222214, y: 33.082306}
+        - {x: -24.222214, y: 28.082306}
+        - {x: -24.222214, y: -39.917694}
+        - {x: -22.222214, y: -44.917694}
+        - {x: 16.777786, y: -44.917694}
+        - {x: 26.777786, y: -34.917694}
+        - {x: 26.777786, y: 22.082306}
+        - {x: 20.777786, y: 33.082306}
+      - - {x: -14.222214, y: 45.082306}
+        - {x: -13.222214, y: 42.082306}
+        - {x: -7.2222137, y: 42.082306}
+        - {x: -5.2222137, y: 44.082306}
+        - {x: -5.2222137, y: 45.082306}
+    - name: npc_rube__x1_spawn_in_png_1354831067_182
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 308
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.722229, y: 34.082306}
+        - {x: -20.277771, y: 34.082306}
+        - {x: -26.277771, y: 25.082306}
+        - {x: -26.277771, y: -34.917694}
+        - {x: -17.277771, y: -44.917694}
+        - {x: 2.722229, y: -44.917694}
+        - {x: 25.722229, y: -30.917694}
+        - {x: 25.722229, y: -8.917694}
+        - {x: 19.722229, y: 30.082306}
+      - - {x: -15.277771, y: 45.082306}
+        - {x: -14.277771, y: 42.082306}
+        - {x: -7.277771, y: 42.082306}
+        - {x: -5.277771, y: 44.082306}
+        - {x: -5.277771, y: 45.082306}
+    - name: npc_rube__x1_spawn_in_png_1354831067_183
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 308
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.333313, y: 34.082306}
+        - {x: -26.333313, y: -41.917694}
+        - {x: -23.333313, y: -44.917694}
+        - {x: 4.666687, y: -44.917694}
+        - {x: 26.666687, y: -35.917694}
+        - {x: 26.666687, y: 18.082306}
+        - {x: 18.666687, y: 34.082306}
+      - - {x: -14.333313, y: 45.082306}
+        - {x: -13.333313, y: 42.082306}
+        - {x: -7.333313, y: 42.082306}
+        - {x: -5.333313, y: 44.082306}
+        - {x: -5.333313, y: 45.082306}
+    - name: npc_rube__x1_spawn_in_png_1354831067_184
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 308
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.388885, y: 35.082306}
+        - {x: -27.388885, y: 21.082306}
+        - {x: -27.388885, y: -36.917694}
+        - {x: -25.388885, y: -44.917694}
+        - {x: 1.6111145, y: -44.917694}
+        - {x: 25.611115, y: -36.917694}
+        - {x: 25.611115, y: 10.082306}
+        - {x: 20.611115, y: 35.082306}
+      - - {x: -15.3888855, y: 45.082306}
+        - {x: -14.3888855, y: 42.082306}
+        - {x: -7.3888855, y: 42.082306}
+        - {x: -5.3888855, y: 44.082306}
+        - {x: -5.3888855, y: 45.082306}
+    - name: npc_rube__x1_spawn_in_png_1354831067_185
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 308
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.055573, y: 37.082306}
+        - {x: -19.944427, y: 37.082306}
+        - {x: -27.944427, y: 33.082306}
+        - {x: -27.944427, y: -40.917694}
+        - {x: -26.944427, y: -44.917694}
+        - {x: 9.0555725, y: -44.917694}
+        - {x: 27.055573, y: -37.917694}
+        - {x: 27.055573, y: 17.082306}
+        - {x: 23.055573, y: 30.082306}
+      - - {x: -13.9444275, y: 45.082306}
+        - {x: -12.9444275, y: 42.082306}
+        - {x: -6.9444275, y: 42.082306}
+        - {x: -4.9444275, y: 44.082306}
+        - {x: -4.9444275, y: 45.082306}
+    - name: npc_rube__x1_spawn_in_png_1354831067_186
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 154
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 37.041153}
+        - {x: -30.5, y: 32.041153}
+        - {x: -30.5, y: -17.958847}
+        - {x: -25.5, y: -44.958847}
+        - {x: 25.5, y: -44.958847}
+        - {x: 25.5, y: 37.041153}
+      - - {x: -15.5, y: 45.041153}
+        - {x: -14.5, y: 42.041153}
+        - {x: -7.5, y: 42.041153}
+        - {x: -5.5, y: 44.041153}
+        - {x: -5.5, y: 45.041153}
+    - name: npc_rube__x1_spawn_in_png_1354831067_187
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 154
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.944447, y: -2.958847}
+        - {x: 9.944447, y: 36.041153}
+        - {x: 5.9444466, y: 38.041153}
+        - {x: -12.055553, y: 38.041153}
+        - {x: -22.055553, y: 36.041153}
+        - {x: -30.055553, y: 20.041153}
+        - {x: -30.055553, y: -11.958847}
+        - {x: -21.055553, y: -44.958847}
+        - {x: 11.944447, y: -44.958847}
+        - {x: 25.944447, y: -40.958847}
+        - {x: 25.944447, y: -15.958847}
+        - {x: 24.944447, y: -15.958847}
+      - - {x: -14.055553, y: 45.041153}
+        - {x: -13.055553, y: 42.041153}
+        - {x: -7.0555534, y: 42.041153}
+        - {x: -5.0555534, y: 44.041153}
+        - {x: -5.0555534, y: 45.041153}
+    - name: npc_rube__x1_spawn_in_png_1354831067_188
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 154
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.111107, y: -14.958847}
+        - {x: -24.111107, y: -44.958847}
+        - {x: 26.888893, y: -44.958847}
+        - {x: 26.888893, y: 10.041153}
+        - {x: 18.888893, y: 38.041153}
+        - {x: -20.111107, y: 38.041153}
+        - {x: -30.111107, y: 28.041153}
+      - - {x: -14.111107, y: 45.041153}
+        - {x: -13.111107, y: 42.041153}
+        - {x: -6.111107, y: 42.041153}
+        - {x: -4.111107, y: 44.041153}
+        - {x: -4.111107, y: 45.041153}
+    - name: npc_rube__x1_spawn_in_png_1354831067_189
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 154
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.8333435, y: 38.041153}
+        - {x: -19.166656, y: 38.041153}
+        - {x: -26.166656, y: 30.041153}
+        - {x: -31.166656, y: 23.041153}
+        - {x: -31.166656, y: -38.958847}
+        - {x: -20.166656, y: -44.958847}
+        - {x: 12.8333435, y: -44.958847}
+        - {x: 24.833344, y: -32.958847}
+        - {x: 25.833344, y: -27.958847}
+        - {x: 25.833344, y: -10.958847}
+      - - {x: -14.1666565, y: 45.041153}
+        - {x: -13.1666565, y: 42.041153}
+        - {x: -7.1666565, y: 42.041153}
+        - {x: -5.1666565, y: 44.041153}
+        - {x: -5.1666565, y: 45.041153}
+    - name: npc_rube__x1_spawn_in_png_1354831067_190
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 154
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.222214, y: -16.958847}
+        - {x: -23.222214, y: -44.958847}
+        - {x: 14.777786, y: -44.958847}
+        - {x: 25.777786, y: -40.958847}
+        - {x: 25.777786, y: -8.958847}
+        - {x: 13.777786, y: 38.041153}
+        - {x: -25.222214, y: 38.041153}
+        - {x: -30.222214, y: 31.041153}
+      - - {x: -14.222214, y: 45.041153}
+        - {x: -13.222214, y: 42.041153}
+        - {x: -6.2222137, y: 42.041153}
+        - {x: -4.2222137, y: 44.041153}
+        - {x: -4.2222137, y: 45.041153}
+    - name: npc_rube__x1_spawn_in_png_1354831067_191
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 154
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.722229, y: 37.041153}
+        - {x: -19.277771, y: 37.041153}
+        - {x: -30.277771, y: 26.041153}
+        - {x: -30.277771, y: -38.958847}
+        - {x: -18.277771, y: -44.958847}
+        - {x: 12.722229, y: -44.958847}
+        - {x: 20.722229, y: -38.958847}
+        - {x: 25.722229, y: -30.958847}
+        - {x: 25.722229, y: 1.041153}
+      - - {x: -15.277771, y: 45.041153}
+        - {x: -14.277771, y: 42.041153}
+        - {x: -7.277771, y: 42.041153}
+        - {x: -5.277771, y: 44.041153}
+        - {x: -5.277771, y: 45.041153}
+    - name: npc_rube__x1_spawn_in_png_1354831067_192
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 154
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.666687, y: 37.041153}
+        - {x: -24.333313, y: 37.041153}
+        - {x: -30.333313, y: 34.041153}
+        - {x: -30.333313, y: -24.958847}
+        - {x: -22.333313, y: -44.958847}
+        - {x: 10.666687, y: -44.958847}
+        - {x: 25.666687, y: -40.958847}
+        - {x: 25.666687, y: -0.95884705}
+        - {x: 9.666687, y: 36.041153}
+      - - {x: -14.333313, y: 45.041153}
+        - {x: -13.333313, y: 42.041153}
+        - {x: -7.333313, y: 42.041153}
+        - {x: -5.333313, y: 44.041153}
+        - {x: -5.333313, y: 45.041153}
+    - name: npc_rube__x1_spawn_in_png_1354831067_193
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 154
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.6111145, y: 37.041153}
+        - {x: -19.388885, y: 37.041153}
+        - {x: -30.388885, y: 24.041153}
+        - {x: -30.388885, y: -42.958847}
+        - {x: -24.388885, y: -44.958847}
+        - {x: 13.6111145, y: -44.958847}
+        - {x: 25.611115, y: -31.958847}
+        - {x: 25.611115, y: -3.958847}
+      - - {x: -15.3888855, y: 45.041153}
+        - {x: -14.3888855, y: 42.041153}
+        - {x: -7.3888855, y: 42.041153}
+        - {x: -5.3888855, y: 44.041153}
+        - {x: -5.3888855, y: 45.041153}
+    - name: npc_rube__x1_spawn_in_png_1354831067_194
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 154
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.944427, y: 37.041153}
+        - {x: -29.944427, y: 25.041153}
+        - {x: -29.944427, y: -39.958847}
+        - {x: -19.944427, y: -44.958847}
+        - {x: 26.055573, y: -44.958847}
+        - {x: 26.055573, y: 17.041153}
+        - {x: 22.055573, y: 37.041153}
+      - - {x: -13.9444275, y: 45.041153}
+        - {x: -12.9444275, y: 42.041153}
+        - {x: -5.9444275, y: 42.041153}
+        - {x: -3.9444275, y: 44.041153}
+        - {x: -3.9444275, y: 45.041153}
+    - name: npc_rube__x1_spawn_in_png_1354831067_195
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 37}
+        - {x: -30.5, y: 30}
+        - {x: -30.5, y: -19}
+        - {x: -26.5, y: -34}
+        - {x: -20.5, y: -45}
+        - {x: 4.5, y: -45}
+        - {x: 24.5, y: -40}
+        - {x: 25.5, y: -38}
+        - {x: 25.5, y: 2}
+        - {x: 13.5, y: 37}
+      - - {x: -15.5, y: 45}
+        - {x: -14.5, y: 42}
+        - {x: -7.5, y: 42}
+        - {x: -5.5, y: 44}
+        - {x: -5.5, y: 45}
+    - name: npc_rube__x1_spawn_in_png_1354831067_196
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.9444466, y: 37}
+        - {x: -21.055553, y: 37}
+        - {x: -30.055553, y: 20}
+        - {x: -30.055553, y: -41}
+        - {x: -23.055553, y: -45}
+        - {x: 13.944447, y: -45}
+        - {x: 23.944447, y: -35}
+        - {x: 25.944447, y: -32}
+        - {x: 25.944447, y: 4}
+      - - {x: -14.055553, y: 45}
+        - {x: -13.055553, y: 42}
+        - {x: -7.0555534, y: 42}
+        - {x: -5.0555534, y: 44}
+        - {x: -5.0555534, y: 45}
+    - name: npc_rube__x1_spawn_in_png_1354831067_197
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.111107, y: 37}
+        - {x: -29.111107, y: -45}
+        - {x: 6.888893, y: -45}
+        - {x: 25.888893, y: -40}
+        - {x: 26.888893, y: -35}
+        - {x: 26.888893, y: 4}
+        - {x: 10.888893, y: 37}
+      - - {x: -14.111107, y: 45}
+        - {x: -13.111107, y: 42}
+        - {x: -6.111107, y: 42}
+        - {x: -4.111107, y: 44}
+        - {x: -4.111107, y: 45}
+    - name: npc_rube__x1_spawn_in_png_1354831067_198
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 0
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.166656, y: 37}
+        - {x: -30.166656, y: 26}
+        - {x: -30.166656, y: -13}
+        - {x: -20.166656, y: -45}
+        - {x: 5.8333435, y: -45}
+        - {x: 25.833344, y: -40}
+        - {x: 25.833344, y: 2}
+        - {x: 13.8333435, y: 37}
+      - - {x: -14.1666565, y: 45}
+        - {x: -13.1666565, y: 42}
+        - {x: -7.1666565, y: 42}
+        - {x: -5.1666565, y: 44}
+        - {x: -5.1666565, y: 45}
+    - name: npc_rube__x1_spawn_in_png_1354831067_199
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.7777863, y: 37}
+        - {x: -17.222214, y: 37}
+        - {x: -20.222214, y: 36}
+        - {x: -30.222214, y: 27}
+        - {x: -30.222214, y: -3}
+        - {x: -26.222214, y: -34}
+        - {x: -16.222214, y: -45}
+        - {x: 7.7777863, y: -45}
+        - {x: 25.777786, y: -33}
+        - {x: 25.777786, y: -5}
+        - {x: 22.777786, y: 6}
+      - - {x: -14.222214, y: 45}
+        - {x: -13.222214, y: 42}
+        - {x: -6.2222137, y: 42}
+        - {x: -4.2222137, y: 44}
+        - {x: -4.2222137, y: 45}
+    - name: npc_rube__x1_spawn_in_png_1354831067_200
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.722229, y: 37}
+        - {x: -30.277771, y: 37}
+        - {x: -30.277771, y: -45}
+        - {x: 12.722229, y: -45}
+        - {x: 25.722229, y: -32}
+        - {x: 25.722229, y: -2}
+      - - {x: -15.277771, y: 45}
+        - {x: -14.277771, y: 42}
+        - {x: -7.277771, y: 42}
+        - {x: -5.277771, y: 44}
+        - {x: -5.277771, y: 45}
+    - name: npc_rube__x1_spawn_in_png_1354831067_201
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 0
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.666687, y: 35}
+        - {x: 12.666687, y: 37}
+        - {x: -28.333313, y: 37}
+        - {x: -30.333313, y: 29}
+        - {x: -30.333313, y: 3}
+        - {x: -25.333313, y: -34}
+        - {x: -16.333313, y: -45}
+        - {x: 4.666687, y: -45}
+        - {x: 23.666687, y: -36}
+        - {x: 25.666687, y: -31}
+        - {x: 25.666687, y: 19}
+      - - {x: -14.333313, y: 45}
+        - {x: -13.333313, y: 42}
+        - {x: -6.333313, y: 42}
+        - {x: -4.333313, y: 44}
+        - {x: -4.333313, y: 45}
+    - name: npc_rube__x1_spawn_in_png_1354831067_202
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 0
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.3888855, y: 45}
+        - {x: -14.3888855, y: 42}
+        - {x: -7.3888855, y: 42}
+        - {x: -5.3888855, y: 44}
+        - {x: -5.3888855, y: 45}
+    - name: npc_rube__x1_spawn_in_png_1354831067_203
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.9444275, y: 45}
+        - {x: -12.9444275, y: 42}
+        - {x: -6.9444275, y: 42}
+        - {x: -4.9444275, y: 44}
+        - {x: -4.9444275, y: 45}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
