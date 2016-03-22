@@ -12,6 +12,8 @@ GameObject:
   - 114: {fileID: 11415324}
   - 61: {fileID: 6116836}
   - 50: {fileID: 5037088}
+  - 114: {fileID: 11405786}
+  - 114: {fileID: 11445590}
   m_Layer: 0
   m_Name: Enemy_Fox
   m_TagString: Untagged
@@ -55,7 +57,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 105586}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 5, y: 2, z: 0}
+  m_LocalPosition: {x: 6, y: 2, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 457856}
@@ -89,9 +91,9 @@ BoxCollider2D:
   m_Material: {fileID: 0}
   m_IsTrigger: 1
   m_UsedByEffector: 0
-  m_Offset: {x: 0, y: -0.3}
+  m_Offset: {x: 0.041086197, y: -0.29999995}
   serializedVersion: 2
-  m_Size: {x: 0.75, y: 0.29}
+  m_Size: {x: 0.6678272, y: 0.28999996}
 --- !u!95 &9525184
 Animator:
   serializedVersion: 3
@@ -126,6 +128,17 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
+--- !u!114 &11405786
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 105586}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e53803509bd8fc419b0b0bd4547583c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &11415324
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -137,7 +150,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7adcf806e0be29542a2eb93f5c8e47b8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  currentSpeed: 0
+--- !u!114 &11445590
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 105586}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d295d01274493ed4db3a00c4e3a381f4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hp: 100
 --- !u!212 &21241138
 SpriteRenderer:
   m_ObjectHideFlags: 1

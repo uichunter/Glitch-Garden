@@ -1,10 +1,10 @@
 ﻿using UnityEngine;
 using System.Collections;
-
+[RequireComponent(typeof(Rigidbody2D))]
 public class Attacker : MonoBehaviour {
-	[Range(-1f,2f)]
-	public float currentSpeed;
-
+	//[Range(-1f,2f)] we dont need this anymore;
+	private float currentSpeed;
+	private GameObject currentTarget;
 
 	// Use this for initialization
 	void Start () {
@@ -28,6 +28,16 @@ public class Attacker : MonoBehaviour {
 
 	public void StrikeCurrentTarget (float damage)
 	{
-		Debug.Log("Target get "+damage+" damage.");
+		if (currentTarget) {
+			Health targetHealth = currentTarget.GetComponent<Health> ();
+			if (targetHealth) {
+				targetHealth.DealDamage(damage);
+			}
+		}
+	}
+
+	public void Attack (GameObject obj)
+	{
+		currentTarget = obj;
 	}
 }

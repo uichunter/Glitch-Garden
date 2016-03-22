@@ -157,14 +157,7 @@ AnimationClip:
     functionName: SetWalkSpeed
     data: 
     objectReferenceParameter: {fileID: 0}
-    floatParameter: 1
-    intParameter: 0
-    messageOptions: 0
-  - time: 0.26666668
-    functionName: SetWalkSpeed
-    data: 
-    objectReferenceParameter: {fileID: 0}
-    floatParameter: 0.5
+    floatParameter: 4
     intParameter: 0
     messageOptions: 0
   - time: 0.43333334

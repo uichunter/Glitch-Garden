@@ -12,6 +12,8 @@ GameObject:
   - 114: {fileID: 11423744}
   - 61: {fileID: 6105266}
   - 50: {fileID: 5092844}
+  - 114: {fileID: 11417724}
+  - 114: {fileID: 11459246}
   m_Layer: 0
   m_Name: Enemy_Lizard
   m_TagString: Untagged
@@ -88,9 +90,9 @@ BoxCollider2D:
   m_Material: {fileID: 0}
   m_IsTrigger: 1
   m_UsedByEffector: 0
-  m_Offset: {x: 0.1, y: -0.09}
+  m_Offset: {x: 0.091658115, y: -0.089999914}
   serializedVersion: 2
-  m_Size: {x: 0.61, y: 0.7}
+  m_Size: {x: 0.6266836, y: 0.7}
 --- !u!95 &9554308
 Animator:
   serializedVersion: 3
@@ -108,6 +110,17 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
+--- !u!114 &11417724
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 141962}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed18e713fe7ed73428d1f0aea40ef862, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &11423744
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -119,7 +132,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7adcf806e0be29542a2eb93f5c8e47b8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  currentSpeed: 0
+--- !u!114 &11459246
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 141962}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d295d01274493ed4db3a00c4e3a381f4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hp: 150
 --- !u!212 &21204558
 SpriteRenderer:
   m_ObjectHideFlags: 1

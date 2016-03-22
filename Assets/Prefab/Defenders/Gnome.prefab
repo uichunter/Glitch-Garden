@@ -44,6 +44,7 @@ GameObject:
   - 95: {fileID: 9552662}
   - 61: {fileID: 6153056}
   - 114: {fileID: 11469900}
+  - 114: {fileID: 11429472}
   m_Layer: 0
   m_Name: Gnome
   m_TagString: Untagged
@@ -146,6 +147,18 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
+--- !u!114 &11429472
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 184912}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d295d01274493ed4db3a00c4e3a381f4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hp: 150
 --- !u!114 &11469900
 MonoBehaviour:
   m_ObjectHideFlags: 1
