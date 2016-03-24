@@ -2,14 +2,6 @@
 using System.Collections;
 
 public class StoneWall : MonoBehaviour {
+	//Only used as a tag.
 
-	// Use this for initialization
-	void Start () {
-	
-	}
-	
-	// Update is called once per frame
-	void Update () {
-	
-	}
 }
