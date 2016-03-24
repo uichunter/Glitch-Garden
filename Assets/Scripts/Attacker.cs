@@ -21,11 +21,6 @@ public class Attacker : MonoBehaviour {
 		}
 	}
 
-	void OnTriggerEnter2D ()
-	{
-		Debug.Log("Trigger collide.");
-	}
-
 	void SetWalkSpeed (float speed)
 	{
 		currentSpeed = speed;
