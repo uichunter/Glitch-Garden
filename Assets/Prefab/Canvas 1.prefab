@@ -10,8 +10,10 @@ GameObject:
   - 224: {fileID: 22496254}
   - 222: {fileID: 22241002}
   - 114: {fileID: 11453008}
+  - 114: {fileID: 11442470}
+  - 61: {fileID: 6111588}
   m_Layer: 5
-  m_Name: Panel
+  m_Name: Core Game Area
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -139,6 +141,20 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!61 &6111588
+BoxCollider2D:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 109444}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Size: {x: 1200, y: 675}
 --- !u!114 &11419552
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -233,6 +249,17 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: Win
+--- !u!114 &11442470
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 109444}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3d4e1f5e8d1f9e4488370bb7bb59670, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &11447112
 MonoBehaviour:
   m_ObjectHideFlags: 1
