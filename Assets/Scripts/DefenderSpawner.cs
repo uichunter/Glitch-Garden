@@ -4,25 +4,32 @@ using System.Collections;
 public class DefenderSpawner : MonoBehaviour {
 	public Camera myCamera;
 
+    GameObject defenderParents;
+
 	// Use this for initialization
 	void Start ()
 	{
+		GetDefendersFolder();
 		myCamera = Camera.main;
 		if (myCamera == null) {
 			Debug.LogError("Dont know how to create a camera with script.");
 		}
 	}
-	
-	// Update is called once per frame
-	void Update () {
-	
+
+	void GetDefendersFolder ()
+	{
+		defenderParents = GameObject.Find ("Defenders");
+		if (defenderParents == null) {
+			defenderParents = new GameObject("Defenders");
+		} 
 	}
 
 	void OnMouseDown ()
 	{
-		Debug.Log("World position: "+Input.mousePosition);
-		Debug.Log(GetGamePosition());
-		Debug.Log(GetSnapPos(GetGamePosition()));
+		Vector2 rawPos = GetGamePosition();
+		Vector2 realPos = GetSnapPos(rawPos);
+		GameObject newDefender =  Instantiate(ButtonScript.selectedDefender,realPos,Quaternion.identity) as GameObject;
+		newDefender.transform.parent = defenderParents.transform;
 	}
 
 	Vector2 GetSnapPos (Vector2 rawPos)

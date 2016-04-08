@@ -3,7 +3,6 @@ using System.Collections;
 
 public class Shooter : MonoBehaviour {
 	public GameObject projectile,gun;
-
 	GameObject projectileParents;
 
 	//This sample code used to track any gameobject you need before running. If it not existing, create it;

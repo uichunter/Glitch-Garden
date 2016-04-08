@@ -4,6 +4,8 @@ using System.Collections;
 public class Attacker : MonoBehaviour {
 	//[Range(-1f,2f)] we dont need this anymore;
 	private float currentSpeed;
+	[Tooltip("Average number of seconds between appearence")]
+	public float seenEverySecond;
 	private GameObject currentTarget;
 	private Animator atkAnimator;
 

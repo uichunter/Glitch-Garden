@@ -3,10 +3,14 @@ using System.Collections;
 
 public class ButtonScript : MonoBehaviour {
 	public GameObject defenderPrefab;
-	private static GameObject selectedDefender;
+	public static GameObject selectedDefender;
+
+	bool isSelected = false;
+	ButtonScript[] buttonArray;
 	// Use this for initialization
 	void Start () {
 		GetComponent<SpriteRenderer>().color = Color.black;
+		buttonArray = GameObject.FindObjectsOfType<ButtonScript>();// Store every button in an array;
 	}
 	
 	// Update is called once per frame
@@ -19,8 +23,21 @@ public class ButtonScript : MonoBehaviour {
 		selectedDefender = defenderPrefab;
 	}
 
+	//It is a useful way to let button be unique;
+	void OnMouseDown ()
+	{
+		isSelected = true;
+		foreach (ButtonScript thisButton in buttonArray) {
+			thisButton.GetComponent<SpriteRenderer> ().color = Color.black;
+		}
+		GetComponent<SpriteRenderer> ().color = Color.white;
+			
+	}
+
 	void OnMouseExit ()
 	{
-		GetComponent<SpriteRenderer>().color = Color.black;
+		if (isSelected == false) {
+			GetComponent<SpriteRenderer> ().color = Color.black;
+		}
 	}
 }
