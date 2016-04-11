@@ -20,7 +20,6 @@ public class ButtonScript : MonoBehaviour {
 
 	void OnMouseOver(){
 		GetComponent<SpriteRenderer>().color = Color.white; 
-		selectedDefender = defenderPrefab;
 	}
 
 	//It is a useful way to let button be unique;
@@ -31,6 +30,7 @@ public class ButtonScript : MonoBehaviour {
 			thisButton.GetComponent<SpriteRenderer> ().color = Color.black;
 		}
 		GetComponent<SpriteRenderer> ().color = Color.white;
+		selectedDefender = defenderPrefab;
 			
 	}
 

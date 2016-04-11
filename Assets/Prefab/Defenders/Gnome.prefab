@@ -133,6 +133,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   projectile: {fileID: 178468, guid: 03fb722cb1d3627448988c764d4e631c, type: 2}
   gun: {fileID: 187282}
+  shootRange: 4
 --- !u!114 &11429472
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -157,6 +158,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 62c5e1db47073564d8d9b74596a7ff29, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  starCost: 50
 --- !u!212 &21296414
 SpriteRenderer:
   m_ObjectHideFlags: 1

@@ -26,10 +26,32 @@ public class DefenderSpawner : MonoBehaviour {
 
 	void OnMouseDown ()
 	{
-		Vector2 rawPos = GetGamePosition();
-		Vector2 realPos = GetSnapPos(rawPos);
-		GameObject newDefender =  Instantiate(ButtonScript.selectedDefender,realPos,Quaternion.identity) as GameObject;
+		if (isCanSpwan ()) {
+			SpwanDefenders ();
+		} else {
+			Debug.LogError(ButtonScript.selectedDefender +" is over star-cost;");
+		}
+	}
+
+	bool isCanSpwan ()
+	{
+		StarDisplay starDisplay = GameObject.FindObjectOfType<StarDisplay> ();
+		int selectedDefenderCost = ButtonScript.selectedDefender.GetComponent<Defender>().starCost;
+		if (starDisplay.GetStarAmount()>=selectedDefenderCost) {
+			return true;
+		} else {
+			return false;
+		}
+	}
+
+	void SpwanDefenders ()
+	{
+		Vector2 rawPos = GetGamePosition ();
+		Vector2 realPos = GetSnapPos (rawPos);
+		GameObject newDefender = Instantiate (ButtonScript.selectedDefender, realPos, Quaternion.identity) as GameObject;
 		newDefender.transform.parent = defenderParents.transform;
+		Defender defender = newDefender.GetComponent<Defender> ();
+		defender.useStars ();
 	}
 
 	Vector2 GetSnapPos (Vector2 rawPos)

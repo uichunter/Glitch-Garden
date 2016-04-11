@@ -2,6 +2,23 @@
 using System.Collections;
 
 public class Defender : MonoBehaviour {
-// use this script as a tag.
+	public int starCost;
+	
+	StarDisplay starDisplay;
 
+	void Start(){
+		
+	}
+
+	public void addStars (int amount)
+	{
+		starDisplay = GameObject.FindObjectOfType<StarDisplay>();
+		starDisplay.AddStars(amount);
+	}
+
+	public void useStars ()
+	{
+		starDisplay = GameObject.FindObjectOfType<StarDisplay>();
+		starDisplay.UseStars(starCost);
+	}
 }
