@@ -4,12 +4,15 @@ using UnityEngine.UI;
 
 [RequireComponent(typeof(Text))]
 public class StarDisplay : MonoBehaviour {
-	int starAmount;
+	public int starAmount;
 	Text starAmountText;
 
 	// Use this for initialization
-	void Start () {
-		starAmount = 200;
+	void Start ()
+	{
+		if (starAmount == 0) {
+			Debug.LogError("Please set the star start amount.");
+		}
 		starAmountText = this.GetComponent<Text>();
 		UpdateStars();
 	}

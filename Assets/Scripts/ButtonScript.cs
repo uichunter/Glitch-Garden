@@ -18,22 +18,20 @@ public class ButtonScript : MonoBehaviour {
 
 	void SetStarCostText (float alpha)
 	{
-		text = GameObject.FindObjectOfType<Text> ();
-		Color textColor = text.color;
-		textColor.a = alpha;
-		text.color = textColor;
-	}
-	
-	// Update is called once per frame
-	void Update () {
-	
+		text = this.GetComponentInChildren<Text> ();
+		if (text) {
+			Color textColor = text.color;
+			textColor.a = alpha;
+			text.color = textColor;
+		} else {
+			Debug.LogError(name+" can`t find any text in child transform.");
+		}
 	}
 
 	void OnMouseOver(){
 		GetComponent<SpriteRenderer>().color = Color.white; 
 		SetStarCostText(1f);
-		//text.text = selectedDefender.GetComponent<Defender>().starCost.ToString();
-		//Need to debug.
+		text.text = defenderPrefab.GetComponent<Defender>().starCost.ToString();
 	}
 
 	//It is a useful way to let button be unique;
@@ -42,6 +40,7 @@ public class ButtonScript : MonoBehaviour {
 		isSelected = true;
 		foreach (ButtonScript thisButton in buttonArray) {
 			thisButton.GetComponent<SpriteRenderer> ().color = Color.black;
+			thisButton.GetComponent<ButtonScript>().SetStarCostText(0f);
 		}
 		GetComponent<SpriteRenderer> ().color = Color.white;
 		selectedDefender = defenderPrefab;
@@ -52,6 +51,7 @@ public class ButtonScript : MonoBehaviour {
 	{
 		if (isSelected == false) {
 			GetComponent<SpriteRenderer> ().color = Color.black;
+			SetStarCostText(0f);
 		}
 	}
 }
