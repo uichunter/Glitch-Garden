@@ -424,6 +424,26 @@ Prefab:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 11454372, guid: bc798d84c2bb64246851ff2e0f257df5, type: 2}
+      propertyPath: attackerList.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 11406180, guid: bc798d84c2bb64246851ff2e0f257df5, type: 2}
+      propertyPath: attackerList.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 11419878, guid: bc798d84c2bb64246851ff2e0f257df5, type: 2}
+      propertyPath: attackerList.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 11466204, guid: bc798d84c2bb64246851ff2e0f257df5, type: 2}
+      propertyPath: attackerList.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 11439190, guid: bc798d84c2bb64246851ff2e0f257df5, type: 2}
+      propertyPath: attackerList.Array.size
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 491292, guid: bc798d84c2bb64246851ff2e0f257df5, type: 2}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -456,6 +476,26 @@ Prefab:
       propertyPath: m_RootOrder
       value: 4
       objectReference: {fileID: 0}
+    - target: {fileID: 11406180, guid: bc798d84c2bb64246851ff2e0f257df5, type: 2}
+      propertyPath: attackerList.Array.data[1]
+      value: 
+      objectReference: {fileID: 105586, guid: a1587545d0faa7f419ed6f53589c9dbb, type: 2}
+    - target: {fileID: 11454372, guid: bc798d84c2bb64246851ff2e0f257df5, type: 2}
+      propertyPath: attackerList.Array.data[1]
+      value: 
+      objectReference: {fileID: 105586, guid: a1587545d0faa7f419ed6f53589c9dbb, type: 2}
+    - target: {fileID: 11466204, guid: bc798d84c2bb64246851ff2e0f257df5, type: 2}
+      propertyPath: attackerList.Array.data[1]
+      value: 
+      objectReference: {fileID: 105586, guid: a1587545d0faa7f419ed6f53589c9dbb, type: 2}
+    - target: {fileID: 11419878, guid: bc798d84c2bb64246851ff2e0f257df5, type: 2}
+      propertyPath: attackerList.Array.data[1]
+      value: 
+      objectReference: {fileID: 105586, guid: a1587545d0faa7f419ed6f53589c9dbb, type: 2}
+    - target: {fileID: 11439190, guid: bc798d84c2bb64246851ff2e0f257df5, type: 2}
+      propertyPath: attackerList.Array.data[1]
+      value: 
+      objectReference: {fileID: 105586, guid: a1587545d0faa7f419ed6f53589c9dbb, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: bc798d84c2bb64246851ff2e0f257df5, type: 2}
   m_IsPrefabParent: 0
