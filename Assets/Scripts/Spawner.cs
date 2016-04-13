@@ -41,6 +41,6 @@ public class Spawner : MonoBehaviour {
 
 		bool isRandomSmaller = (Random.value < threshold);
 
-		return isRandomSmaller ;
+		return isRandomSmaller;
 	}
 }
