@@ -297,23 +297,11 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 22458826, guid: bbbfe8c52f163c247bec63a9bd12513a, type: 2}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 22425900, guid: bbbfe8c52f163c247bec63a9bd12513a, type: 2}
       propertyPath: m_AnchorMax.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 11428124, guid: bbbfe8c52f163c247bec63a9bd12513a, type: 2}
-      propertyPath: m_Text
-      value: lv3
-      objectReference: {fileID: 0}
-    - target: {fileID: 11431720, guid: bbbfe8c52f163c247bec63a9bd12513a, type: 2}
-      propertyPath: starAmount
-      value: 250
-      objectReference: {fileID: 0}
-    - target: {fileID: 168952, guid: bbbfe8c52f163c247bec63a9bd12513a, type: 2}
-      propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: bbbfe8c52f163c247bec63a9bd12513a, type: 2}
