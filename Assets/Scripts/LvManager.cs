@@ -18,7 +18,7 @@ public class LvManager : MonoBehaviour {
 		}
     }
 
-	public  void LvLoader (string name){
+	public void LvLoader (string name){
         previousScene = SceneManager.GetActiveScene().buildIndex;
 		SceneManager.LoadScene(name);
 	}
