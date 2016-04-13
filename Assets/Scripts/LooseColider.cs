@@ -24,7 +24,7 @@ public class LooseColider : MonoBehaviour {
 		if (collider.gameObject.GetComponent<Attacker> ()) {
 			playerCoins -= 1;
 			if (playerCoins <= 0) {
-				lvManager.LvLoader("03b Lose");
+				lvManager.LoadLooseSence();
 			}
 		}
 

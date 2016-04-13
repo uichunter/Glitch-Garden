@@ -51,6 +51,16 @@ public class LvManager : MonoBehaviour {
 		SceneManager.LoadScene(currentLevel + 1);
 	}
 
+	public void LoadLooseSence ()
+	{
+		LvLoader("03b Lose");
+	}
+
+	public  void LoadSurivalScene ()
+	{
+		LvLoader("02 Level_up");
+	}
+
 	}
 
     // Remember reset the max level in prefab;
